@@ -1,0 +1,1598 @@
+Log of all lines as ircinterp understands them
+
+AUTH from colobus of Foonetic: *** Looking up your hostname...
+AUTH from colobus of Foonetic: *** Found your hostname (cached)
+AUTH from colobus of Foonetic: *** Checking ident...
+AUTH from colobus of Foonetic: *** No ident response; username prefixed with ~
+Pinged on Foonetic: ':C6B07AB4'
+MESSAGE from colobus (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network broddy!~broderick@c-24-63-226-212.hsd1.ma.comcast.net
+MESSAGE from colobus (of Foonetic) no. 2: :Your host is colobus.foonetic.net, running version Unreal3.2.7
+MESSAGE from colobus (of Foonetic) no. 3: :This server was created Thu Jan 31 2008 at 19:16:46 EST
+MESSAGE from colobus (of Foonetic) no. 4: colobus.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from colobus (of Foonetic) no. 5: NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 WALLCHOPS :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 251: :There are 45 users and 991 invisible on 5 servers
+MESSAGE from colobus (of Foonetic) no. 252: 6 :operator(s) online
+MESSAGE from colobus (of Foonetic) no. 254: 356 :channels formed
+MESSAGE from colobus (of Foonetic) no. 255: :I have 330 clients and 2 servers
+MESSAGE from colobus (of Foonetic) no. 265: :Current Local Users: 330  Max: 432
+MESSAGE from colobus (of Foonetic) no. 266: :Current Global Users: 1036  Max: 1268
+MESSAGE from colobus (of Foonetic) no. 375: :- colobus.foonetic.net Message of the Day - 
+MESSAGE from colobus (of Foonetic) no. 372: :- 31/1/2008 19:22
+MESSAGE from colobus (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from colobus (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from colobus (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from colobus (of Foonetic) no. 372: :-                                   
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @isomerica.net
+MESSAGE from colobus (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from colobus (of Foonetic) no. 372: :-          
+MESSAGE from colobus (of Foonetic) no. 372: :-                      * WARNING *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Blitzed Open Proxy Monitor Active *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Email help@foonetic.net for help  *
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from colobus (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from colobus (of Foonetic) no. 372: :-         (To force IPv6, use irc6.foonetic.net)
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Administrator:   spinfire
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Critter:         aelscha
+MESSAGE from colobus (of Foonetic) no. 372: :-              
+MESSAGE from colobus (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from colobus (of Foonetic) no. 372: :-                        #help
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Ports: 6667, 6668, 6669, 7000
+MESSAGE from colobus (of Foonetic) no. 372: :-            SSL Ports: 6697, 7001    
+MESSAGE from colobus (of Foonetic) no. 376: :End of /MOTD command.
+broddy on Foonetic set mode broddy +iwsx
+MESSAGE from colobus (of Foonetic) no. 332: #bua :almostsix is a birthday face | < frozencemetery> how much pubic hair does this guy HAVE? | < frozercemetery> also, seriously no one's ported linux to klingon? | <&Geekthras> man, my legs are awesome | Talking about parents' toes hour in #bua | <&Geekthras> COHERENT SENTENCES I AM BACON | Best cover ever? B
+MESSAGE from colobus (of Foonetic) no. 333: #bua Geekthras 1287424882
+MESSAGE from colobus (of Foonetic) no. 353: = #bua :broddy @almostsix %frozencemetery lurker &Geekthras 
+MESSAGE from colobus (of Foonetic) no. 366: #bua :End of /NAMES list.
+AUTH from daemonic of Foonetic: *** Looking up your hostname...
+AUTH from daemonic of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':47A8B03D'
+MESSAGE from daemonic (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@c-24-63-226-212.hsd1.ma.comcast.net
+MESSAGE from daemonic (of Foonetic) no. 2: :Your host is daemonic.foonetic.net, running version Unreal3.2.8.1
+MESSAGE from daemonic (of Foonetic) no. 3: :This server was created Sat Jun 12 2010 at 09:11:47 CDT
+MESSAGE from daemonic (of Foonetic) no. 4: daemonic.foonetic.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from daemonic (of Foonetic) no. 5: UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 251: :There are 47 users and 981 invisible on 5 servers
+MESSAGE from daemonic (of Foonetic) no. 252: 6 :operator(s) online
+MESSAGE from daemonic (of Foonetic) no. 254: 362 :channels formed
+MESSAGE from daemonic (of Foonetic) no. 255: :I have 313 clients and 1 servers
+MESSAGE from daemonic (of Foonetic) no. 265: :Current Local Users: 313  Max: 431
+MESSAGE from daemonic (of Foonetic) no. 266: :Current Global Users: 1028  Max: 1268
+MESSAGE from daemonic (of Foonetic) no. 375: :- daemonic.foonetic.net Message of the Day - 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 24/9/2007 14:12
+MESSAGE from daemonic (of Foonetic) no. 372: :-          _____                      _   _      
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  ___|__   ___  _ __   ___| |_(_) ___ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-          Welcome to Foonetic IRC, Hartland, WI
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Server: daemonic.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-                  Administrator:   havoc
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   http://foonetic.net/
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Random server: irc.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-             To get help or find IRCops: #help
+MESSAGE from daemonic (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-               Ports: 6667, 6668, 6669, 7000
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   SSL Ports: 6697, 7001    
+MESSAGE from daemonic (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwx
+AUTH from colobus of Foonetic: *** Looking up your hostname...
+AUTH from colobus of Foonetic: *** Checking ident...
+AUTH from colobus of Foonetic: *** Found your hostname
+AUTH from colobus of Foonetic: *** No ident response; username prefixed with ~
+Pinged on Foonetic: ':8AF52F6'
+MESSAGE from colobus (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!~broderick@c-24-63-226-212.hsd1.ma.comcast.net
+MESSAGE from colobus (of Foonetic) no. 2: :Your host is colobus.foonetic.net, running version Unreal3.2.7
+MESSAGE from colobus (of Foonetic) no. 3: :This server was created Thu Jan 31 2008 at 19:16:46 EST
+MESSAGE from colobus (of Foonetic) no. 4: colobus.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from colobus (of Foonetic) no. 5: NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 WALLCHOPS :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 251: :There are 47 users and 980 invisible on 5 servers
+MESSAGE from colobus (of Foonetic) no. 252: 6 :operator(s) online
+MESSAGE from colobus (of Foonetic) no. 254: 362 :channels formed
+MESSAGE from colobus (of Foonetic) no. 255: :I have 330 clients and 2 servers
+MESSAGE from colobus (of Foonetic) no. 265: :Current Local Users: 330  Max: 432
+MESSAGE from colobus (of Foonetic) no. 266: :Current Global Users: 1027  Max: 1268
+MESSAGE from colobus (of Foonetic) no. 375: :- colobus.foonetic.net Message of the Day - 
+MESSAGE from colobus (of Foonetic) no. 372: :- 31/1/2008 19:22
+MESSAGE from colobus (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from colobus (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from colobus (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from colobus (of Foonetic) no. 372: :-                                   
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @isomerica.net
+MESSAGE from colobus (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from colobus (of Foonetic) no. 372: :-          
+MESSAGE from colobus (of Foonetic) no. 372: :-                      * WARNING *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Blitzed Open Proxy Monitor Active *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Email help@foonetic.net for help  *
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from colobus (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from colobus (of Foonetic) no. 372: :-         (To force IPv6, use irc6.foonetic.net)
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Administrator:   spinfire
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Critter:         aelscha
+MESSAGE from colobus (of Foonetic) no. 372: :-              
+MESSAGE from colobus (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from colobus (of Foonetic) no. 372: :-                        #help
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Ports: 6667, 6668, 6669, 7000
+MESSAGE from colobus (of Foonetic) no. 372: :-            SSL Ports: 6697, 7001    
+MESSAGE from colobus (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwsx
+Join on Fooneticbua by Brody
+MESSAGE from colobus (of Foonetic) no. 332: #bua :almostsix is a birthday face | < frozencemetery> how much pubic hair does this guy HAVE? | < frozercemetery> also, seriously no one's ported linux to klingon? | <&Geekthras> man, my legs are awesome | Talking about parents' toes hour in #bua | <&Geekthras> COHERENT SENTENCES I AM BACON | Best cover ever? B
+MESSAGE from colobus (of Foonetic) no. 333: #bua Geekthras 1287424882
+MESSAGE from colobus (of Foonetic) no. 353: = #bua :Brody frozencemetery1 &Geekthras @almostsix lurker 
+MESSAGE from colobus (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: cool
+Chanmsg on Fooneticbua from frozencemetery1: sweet bro
+Pinged on Foonetic: ':colobus.foonetic.net'
+Chanmsg on Fooneticbua from Geekthras: frozencemetery1: what do you think about running him on ellis on a shared account so we can both ssh in and do command-line stuff to him?
+Chanmsg on Fooneticbua from frozencemetery1: that sounds great to me, if almostsix can swing it
+Pinged on Foonetic: ':colobus.foonetic.net'
+Chanmsg on Fooneticbua from frozencemetery1: if we're going to do command line io, we're going to need some way to do that
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Chanmsg on Fooneticbua from frozencemetery1: http://en.wikipedia.org/wiki/File:Rabies_Free_Countries_Sourced_2010.svg
+Chanmsg on Fooneticbua from frozencemetery1: "since always"
+Chanmsg on Fooneticbua from frozencemetery1: "since (ever)"
+Pinged on Foonetic: ':colobus.foonetic.net'
+Chanmsg on Fooneticbua from frozencemetery1: also, pretty sure there's no rabies in Antarctica
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Chanmsg on Fooneticbua from Geekthras: best guitar solo ever
+Chanmsg on Fooneticbua from Geekthras: http://homestuck.bandcamp.com/album/homestuck-vol-5 how do I live, starting at 2:00
+Chanmsg on Fooneticbua from frozencemetery1: holy shit: "ATS/Anairiats is the currently released implementation of ATS. ATS/Anairiats is written in ATS itself, consisting of more than 90,000 lines of source code."
+Chanmsg on Fooneticbua from frozencemetery1: ATS is written by one guy.
+Chanmsg on Fooneticbua from Geekthras: wo
+Pinged on Foonetic: ':colobus.foonetic.net'
+Chanmsg on Fooneticbua from Geekthras: woo
+Chanmsg on Fooneticbua from frozencemetery1: ACTION is impressed.
+AUTH from colobus of Foonetic: *** Looking up your hostname...
+AUTH from colobus of Foonetic: *** Checking ident...
+AUTH from colobus of Foonetic: *** Found your hostname
+AUTH from colobus of Foonetic: *** No ident response; username prefixed with ~
+Pinged on Foonetic: ':8F11382'
+MESSAGE from colobus (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!~broderick@cumm111-0b02-acm-dhcp47.bu.edu
+MESSAGE from colobus (of Foonetic) no. 2: :Your host is colobus.foonetic.net, running version Unreal3.2.7
+MESSAGE from colobus (of Foonetic) no. 3: :This server was created Thu Jan 31 2008 at 19:16:46 EST
+MESSAGE from colobus (of Foonetic) no. 4: colobus.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from colobus (of Foonetic) no. 5: NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 WALLCHOPS :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 251: :There are 154 users and 865 invisible on 5 servers
+MESSAGE from colobus (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from colobus (of Foonetic) no. 254: 367 :channels formed
+MESSAGE from colobus (of Foonetic) no. 255: :I have 299 clients and 3 servers
+MESSAGE from colobus (of Foonetic) no. 265: :Current Local Users: 299  Max: 432
+MESSAGE from colobus (of Foonetic) no. 266: :Current Global Users: 1019  Max: 1268
+MESSAGE from colobus (of Foonetic) no. 375: :- colobus.foonetic.net Message of the Day - 
+MESSAGE from colobus (of Foonetic) no. 372: :- 31/1/2008 19:22
+MESSAGE from colobus (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from colobus (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from colobus (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from colobus (of Foonetic) no. 372: :-                                   
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @isomerica.net
+MESSAGE from colobus (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from colobus (of Foonetic) no. 372: :-          
+MESSAGE from colobus (of Foonetic) no. 372: :-                      * WARNING *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Blitzed Open Proxy Monitor Active *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Email help@foonetic.net for help  *
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from colobus (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from colobus (of Foonetic) no. 372: :-         (To force IPv6, use irc6.foonetic.net)
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Administrator:   spinfire
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Critter:         aelscha
+MESSAGE from colobus (of Foonetic) no. 372: :-              
+MESSAGE from colobus (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from colobus (of Foonetic) no. 372: :-                        #help
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Ports: 6667, 6668, 6669, 7000
+MESSAGE from colobus (of Foonetic) no. 372: :-            SSL Ports: 6697, 7001    
+MESSAGE from colobus (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwsx
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Privmsg on Foonetic from Geekthras: geekthras
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Privmsg on Foonetic from Geekthras: geekthras
+Pinged on Foonetic: ':colobus.foonetic.net'
+Privmsg on Foonetic from Geekthras: geekthras
+Pinged on Foonetic: ':colobus.foonetic.net'
+Privmsg on Foonetic from Geekthras: geekthras
+Privmsg on Foonetic from Geekthras: geekthras
+Pinged on Foonetic: ':colobus.foonetic.net'
+Privmsg on Foonetic from Geekthras: geekthras
+Privmsg on Foonetic from Geekthras: geekthras
+Pinged on Foonetic: ':colobus.foonetic.net'
+Privmsg on Foonetic from Geekthras: geekthras
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Privmsg on Foonetic from Geekthras: geekthras
+Pinged on Foonetic: ':colobus.foonetic.net'
+Privmsg on Foonetic from Geekthras: geekthras
+Privmsg on Foonetic from Geekthras: geekthras
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+MESSAGE from colobus (of Foonetic) no. 477: #bua :You need a registered nick to join that channel.
+MESSAGE from colobus (of Foonetic) no. 477: #bua :You need a registered nick to join that channel.
+MESSAGE from colobus (of Foonetic) no. 421: PRIV :Unknown command
+MESSAGE from colobus (of Foonetic) no. 477: #bua :You need a registered nick to join that channel.
+Join on Fooneticbua by Brody
+MESSAGE from colobus (of Foonetic) no. 332: #bua :<@almostsix> I will INFRACT THE FUCK all over you |  | <@almostsix> ...guys <@almostsix> I just realied <@almostsix> You could make a troll calendar, one troll per month *almostsix is a little slow sometimes |  | <@almostsix> tp <&Geekthras> fzailure | <&Geekthras> fzailure | <&Geekthras> male strippers <&
+MESSAGE from colobus (of Foonetic) no. 333: #bua frozence1etery 1292226480
+MESSAGE from colobus (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash lurker @almostsix &Geekthras 
+MESSAGE from colobus (of Foonetic) no. 366: #bua :End of /NAMES list.
+MESSAGE from colobus (of Foonetic) no. 421: OP :Unknown command
+MESSAGE from colobus (of Foonetic) no. 292: : -
+MESSAGE from colobus (of Foonetic) no. 290: :        ***** UnrealIRCd Help System *****
+MESSAGE from colobus (of Foonetic) no. 292: : -
+MESSAGE from colobus (of Foonetic) no. 292: : Server Commands Help.
+MESSAGE from colobus (of Foonetic) no. 292: : Specify your Question after the /HELPOP command.
+MESSAGE from colobus (of Foonetic) no. 292: : You will find all of the server commands and options
+MESSAGE from colobus (of Foonetic) no. 292: : available for use.
+MESSAGE from colobus (of Foonetic) no. 292: : If you need extra assistance please visit the server's
+MESSAGE from colobus (of Foonetic) no. 292: : help channel or ask an available IRCop.
+MESSAGE from colobus (of Foonetic) no. 292: : -
+MESSAGE from colobus (of Foonetic) no. 292: : /HELPOP USERCMDS - To get the list of User Commands
+MESSAGE from colobus (of Foonetic) no. 292: : /HELPOP OPERCMDS - To get the list of Oper Commands
+MESSAGE from colobus (of Foonetic) no. 292: : /HELPOP SVSCMDS  - Commands sent via U:Lined Server (Services)
+MESSAGE from colobus (of Foonetic) no. 292: : /HELPOP UMODES   - To get the list of User Modes
+MESSAGE from colobus (of Foonetic) no. 292: : /HELPOP SNOMASKS - To get a list of Snomasks
+MESSAGE from colobus (of Foonetic) no. 292: : /HELPOP CHMODES  - To get the list of Channel Modes
+MESSAGE from colobus (of Foonetic) no. 292: : /HELPOP OFLAGS   - To see the list of O:line Flags
+MESSAGE from colobus (of Foonetic) no. 292: : -
+MESSAGE from colobus (of Foonetic) no. 292: : ==-------------------------oOo--------------------------==
+MESSAGE from colobus (of Foonetic) no. 292: : -
+Chanmsg on Fooneticbua from frozencemetery: :D
+Chanmsg on Fooneticbua from Geekthras: testing
+Chanmsg on Fooneticbua from Geekthras: yess
+AUTH from naos of Foonetic: *** Looking up your hostname...
+AUTH from naos of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':CFB6E70A'
+MESSAGE from naos (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@cumm111-0b02-acm-dhcp47.bu.edu
+MESSAGE from naos (of Foonetic) no. 2: :Your host is naos.foonetic.net, running version Unreal3.2.7
+MESSAGE from naos (of Foonetic) no. 3: :This server was created Fri Jun 20 2008 at 23:46:38 UTC
+MESSAGE from naos (of Foonetic) no. 4: naos.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from naos (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from naos (of Foonetic) no. 5: WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS :are supported by this server
+MESSAGE from naos (of Foonetic) no. 5: INVEX :are supported by this server
+MESSAGE from naos (of Foonetic) no. 251: :There are 154 users and 876 invisible on 5 servers
+MESSAGE from naos (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from naos (of Foonetic) no. 254: 375 :channels formed
+MESSAGE from naos (of Foonetic) no. 255: :I have 256 clients and 1 servers
+MESSAGE from naos (of Foonetic) no. 265: :Current Local Users: 256  Max: 415
+MESSAGE from naos (of Foonetic) no. 266: :Current Global Users: 1030  Max: 1268
+MESSAGE from naos (of Foonetic) no. 375: :- naos.foonetic.net Message of the Day - 
+MESSAGE from naos (of Foonetic) no. 372: :- 11/7/2008 5:32
+MESSAGE from naos (of Foonetic) no. 372: :-     __                        _   _      
+MESSAGE from naos (of Foonetic) no. 372: :-    / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from naos (of Foonetic) no. 372: :-   | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from naos (of Foonetic) no. 372: :-   |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from naos (of Foonetic) no. 372: :-   |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from naos (of Foonetic) no. 372: :-                            
+MESSAGE from naos (of Foonetic) no. 372: :- Welcome to Foonetic IRC @ naos.foonetic.net
+MESSAGE from naos (of Foonetic) no. 372: :-                Dallas, Texas
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       Server Administrator:   dyfrgi
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-           http://foonetic.net/
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-       To get help or find IRCops:
+MESSAGE from naos (of Foonetic) no. 372: :-                #help
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-       Random server: irc.foonetic.net
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       To see the rules, type /quote rules
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       Port: 80, 6667, 6668, 6669, 7000
+MESSAGE from naos (of Foonetic) no. 372: :-       SSL Ports: 443, 6697, 7001
+MESSAGE from naos (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +wx
+Join on Fooneticbua by Brody
+MESSAGE from naos (of Foonetic) no. 332: #bua :<@almostsix> I will INFRACT THE FUCK all over you |  | <@almostsix> ...guys <@almostsix> I just realied <@almostsix> You could make a troll calendar, one troll per month *almostsix is a little slow sometimes |  | <@almostsix> tp <&Geekthras> fzailure | <&Geekthras> fzailure | <&Geekthras> male strippers <&
+MESSAGE from naos (of Foonetic) no. 333: #bua frozence1etery 1292226480
+MESSAGE from naos (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash lurker @almostsix &Geekthras 
+MESSAGE from naos (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: testing kill
+Chanmsg on Fooneticbua from frozencemetery: cool
+AUTH from daemonic of Foonetic: *** Looking up your hostname...
+AUTH from daemonic of Foonetic: *** Found your hostname (cached)
+Pinged on Foonetic: ':950F647E'
+MESSAGE from daemonic (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@cumm111-0b02-acm-dhcp47.bu.edu
+MESSAGE from daemonic (of Foonetic) no. 2: :Your host is daemonic.foonetic.net, running version Unreal3.2.8.1
+MESSAGE from daemonic (of Foonetic) no. 3: :This server was created Sat Jun 12 2010 at 09:11:47 CDT
+MESSAGE from daemonic (of Foonetic) no. 4: daemonic.foonetic.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from daemonic (of Foonetic) no. 5: UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 251: :There are 155 users and 878 invisible on 5 servers
+MESSAGE from daemonic (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from daemonic (of Foonetic) no. 254: 376 :channels formed
+MESSAGE from daemonic (of Foonetic) no. 255: :I have 254 clients and 2 servers
+MESSAGE from daemonic (of Foonetic) no. 265: :Current Local Users: 254  Max: 431
+MESSAGE from daemonic (of Foonetic) no. 266: :Current Global Users: 1033  Max: 1268
+MESSAGE from daemonic (of Foonetic) no. 375: :- daemonic.foonetic.net Message of the Day - 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 24/9/2007 14:12
+MESSAGE from daemonic (of Foonetic) no. 372: :-          _____                      _   _      
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  ___|__   ___  _ __   ___| |_(_) ___ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-          Welcome to Foonetic IRC, Hartland, WI
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Server: daemonic.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-                  Administrator:   havoc
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   http://foonetic.net/
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Random server: irc.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-             To get help or find IRCops: #help
+MESSAGE from daemonic (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-               Ports: 6667, 6668, 6669, 7000
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   SSL Ports: 6697, 7001    
+MESSAGE from daemonic (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwx
+Join on Fooneticbua by Brody
+MESSAGE from daemonic (of Foonetic) no. 332: #bua :<@almostsix> I will INFRACT THE FUCK all over you |  | <@almostsix> ...guys <@almostsix> I just realied <@almostsix> You could make a troll calendar, one troll per month *almostsix is a little slow sometimes |  | <@almostsix> tp <&Geekthras> fzailure | <&Geekthras> fzailure | <&Geekthras> male strippers <&
+MESSAGE from daemonic (of Foonetic) no. 333: #bua frozence1etery 1292226480
+MESSAGE from daemonic (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash lurker @almostsix &Geekthras 
+MESSAGE from daemonic (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: hm
+Chanmsg on Fooneticbua from almostsix: hi Brody!
+Pinged on Foonetic: ':daemonic.foonetic.net'
+Pinged on Foonetic: ':daemonic.foonetic.net'
+AUTH from colobus of Foonetic: *** Looking up your hostname...
+AUTH from colobus of Foonetic: *** Checking ident...
+AUTH from colobus of Foonetic: *** Found your hostname
+AUTH from colobus of Foonetic: *** No ident response; username prefixed with ~
+Pinged on Foonetic: ':F2B9392C'
+MESSAGE from colobus (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!~broderick@cumm111-0b02-acm-dhcp47.bu.edu
+MESSAGE from colobus (of Foonetic) no. 2: :Your host is colobus.foonetic.net, running version Unreal3.2.7
+MESSAGE from colobus (of Foonetic) no. 3: :This server was created Thu Jan 31 2008 at 19:16:46 EST
+MESSAGE from colobus (of Foonetic) no. 4: colobus.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from colobus (of Foonetic) no. 5: NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 WALLCHOPS :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 251: :There are 157 users and 878 invisible on 5 servers
+MESSAGE from colobus (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from colobus (of Foonetic) no. 253: 1 :unknown connection(s)
+MESSAGE from colobus (of Foonetic) no. 254: 376 :channels formed
+MESSAGE from colobus (of Foonetic) no. 255: :I have 309 clients and 3 servers
+MESSAGE from colobus (of Foonetic) no. 265: :Current Local Users: 309  Max: 432
+MESSAGE from colobus (of Foonetic) no. 266: :Current Global Users: 1035  Max: 1268
+MESSAGE from colobus (of Foonetic) no. 375: :- colobus.foonetic.net Message of the Day - 
+MESSAGE from colobus (of Foonetic) no. 372: :- 31/1/2008 19:22
+MESSAGE from colobus (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from colobus (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from colobus (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from colobus (of Foonetic) no. 372: :-                                   
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @isomerica.net
+MESSAGE from colobus (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from colobus (of Foonetic) no. 372: :-          
+MESSAGE from colobus (of Foonetic) no. 372: :-                      * WARNING *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Blitzed Open Proxy Monitor Active *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Email help@foonetic.net for help  *
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from colobus (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from colobus (of Foonetic) no. 372: :-         (To force IPv6, use irc6.foonetic.net)
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Administrator:   spinfire
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Critter:         aelscha
+MESSAGE from colobus (of Foonetic) no. 372: :-              
+MESSAGE from colobus (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from colobus (of Foonetic) no. 372: :-                        #help
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Ports: 6667, 6668, 6669, 7000
+MESSAGE from colobus (of Foonetic) no. 372: :-            SSL Ports: 6697, 7001    
+MESSAGE from colobus (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwsx
+Pinged on Foonetic: ':colobus.foonetic.net'
+AUTH from staticfree of Foonetic: *** Looking up your hostname...
+AUTH from staticfree of Foonetic: *** Found your hostname
+MESSAGE from staticfree (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@cumm111-0b02-acm-dhcp47.bu.edu
+MESSAGE from staticfree (of Foonetic) no. 2: :Your host is staticfree.foonetic.net, running version Unreal3.2.6
+MESSAGE from staticfree (of Foonetic) no. 3: :This server was created Tue Jun 5 2007 at 22:16:13 EDT
+MESSAGE from staticfree (of Foonetic) no. 4: staticfree.foonetic.net Unreal3.2.6 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from staticfree (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from staticfree (of Foonetic) no. 5: WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS :are supported by this server
+MESSAGE from staticfree (of Foonetic) no. 5: INVEX :are supported by this server
+MESSAGE from staticfree (of Foonetic) no. 251: :There are 158 users and 878 invisible on 5 servers
+MESSAGE from staticfree (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from staticfree (of Foonetic) no. 253: 1 :unknown connection(s)
+MESSAGE from staticfree (of Foonetic) no. 254: 374 :channels formed
+MESSAGE from staticfree (of Foonetic) no. 255: :I have 206 clients and 1 servers
+MESSAGE from staticfree (of Foonetic) no. 265: :Current Local Users: 206  Max: 508
+MESSAGE from staticfree (of Foonetic) no. 266: :Current Global Users: 1036  Max: 1268
+MESSAGE from staticfree (of Foonetic) no. 375: :- staticfree.foonetic.net Message of the Day - 
+MESSAGE from staticfree (of Foonetic) no. 372: :- 24/9/2007 15:03
+MESSAGE from staticfree (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from staticfree (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from staticfree (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from staticfree (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from staticfree (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from staticfree (of Foonetic) no. 372: :-                                   
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @staticfree.info
+MESSAGE from staticfree (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from staticfree (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-            (To use IPv6 in balky clients, 
+MESSAGE from staticfree (of Foonetic) no. 372: :-             connect to irc6.foonetic.net)
+MESSAGE from staticfree (of Foonetic) no. 372: :-            
+MESSAGE from staticfree (of Foonetic) no. 372: :-            Server Administrator:   xavier
+MESSAGE from staticfree (of Foonetic) no. 372: :-              
+MESSAGE from staticfree (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from staticfree (of Foonetic) no. 372: :-                        #help
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from staticfree (of Foonetic) no. 372: :-            
+MESSAGE from staticfree (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from staticfree (of Foonetic) no. 372: :-            
+MESSAGE from staticfree (of Foonetic) no. 372: :-            Ports: 6667
+MESSAGE from staticfree (of Foonetic) no. 372: :-            SSL Ports: 6697
+MESSAGE from staticfree (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwx
+Join on Fooneticbua by Brody
+MESSAGE from staticfree (of Foonetic) no. 332: #bua :<@almostsix> I will INFRACT THE FUCK all over you |  | <@almostsix> ...guys <@almostsix> I just realied <@almostsix> You could make a troll calendar, one troll per month *almostsix is a little slow sometimes |  | <@almostsix> tp <&Geekthras> fzailure | <&Geekthras> fzailure | <&Geekthras> male strippers <&
+MESSAGE from staticfree (of Foonetic) no. 333: #bua frozence1etery 1292226480
+MESSAGE from staticfree (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash lurker @almostsix &Geekthras 
+MESSAGE from staticfree (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: hm
+AUTH from naos of Foonetic: *** Looking up your hostname...
+AUTH from naos of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':4FAFC72F'
+MESSAGE from naos (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@cumm111-0b02-acm-dhcp47.bu.edu
+MESSAGE from naos (of Foonetic) no. 2: :Your host is naos.foonetic.net, running version Unreal3.2.7
+MESSAGE from naos (of Foonetic) no. 3: :This server was created Fri Jun 20 2008 at 23:46:38 UTC
+MESSAGE from naos (of Foonetic) no. 4: naos.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from naos (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from naos (of Foonetic) no. 5: WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS :are supported by this server
+MESSAGE from naos (of Foonetic) no. 5: INVEX :are supported by this server
+MESSAGE from naos (of Foonetic) no. 251: :There are 158 users and 880 invisible on 5 servers
+MESSAGE from naos (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from naos (of Foonetic) no. 253: 1 :unknown connection(s)
+MESSAGE from naos (of Foonetic) no. 254: 375 :channels formed
+MESSAGE from naos (of Foonetic) no. 255: :I have 261 clients and 1 servers
+MESSAGE from naos (of Foonetic) no. 265: :Current Local Users: 261  Max: 415
+MESSAGE from naos (of Foonetic) no. 266: :Current Global Users: 1038  Max: 1268
+MESSAGE from naos (of Foonetic) no. 375: :- naos.foonetic.net Message of the Day - 
+MESSAGE from naos (of Foonetic) no. 372: :- 11/7/2008 5:32
+MESSAGE from naos (of Foonetic) no. 372: :-     __                        _   _      
+MESSAGE from naos (of Foonetic) no. 372: :-    / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from naos (of Foonetic) no. 372: :-   | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from naos (of Foonetic) no. 372: :-   |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from naos (of Foonetic) no. 372: :-   |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from naos (of Foonetic) no. 372: :-                            
+MESSAGE from naos (of Foonetic) no. 372: :- Welcome to Foonetic IRC @ naos.foonetic.net
+MESSAGE from naos (of Foonetic) no. 372: :-                Dallas, Texas
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       Server Administrator:   dyfrgi
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-           http://foonetic.net/
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-       To get help or find IRCops:
+MESSAGE from naos (of Foonetic) no. 372: :-                #help
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-       Random server: irc.foonetic.net
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       To see the rules, type /quote rules
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       Port: 80, 6667, 6668, 6669, 7000
+MESSAGE from naos (of Foonetic) no. 372: :-       SSL Ports: 443, 6697, 7001
+MESSAGE from naos (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +wx
+Join on Fooneticbua by Brody
+MESSAGE from naos (of Foonetic) no. 332: #bua :<@almostsix> I will INFRACT THE FUCK all over you |  | <@almostsix> ...guys <@almostsix> I just realied <@almostsix> You could make a troll calendar, one troll per month *almostsix is a little slow sometimes |  | <@almostsix> tp <&Geekthras> fzailure | <&Geekthras> fzailure | <&Geekthras> male strippers <&
+MESSAGE from naos (of Foonetic) no. 333: #bua frozence1etery 1292226480
+MESSAGE from naos (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash lurker @almostsix &Geekthras 
+MESSAGE from naos (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: hm
+Pinged on Foonetic: ':naos.foonetic.net'
+AUTH from staticfree of Foonetic: *** Looking up your hostname...
+AUTH from staticfree of Foonetic: *** Found your hostname (cached)
+MESSAGE from staticfree (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@cumm111-0b02-acm-dhcp47.bu.edu
+MESSAGE from staticfree (of Foonetic) no. 2: :Your host is staticfree.foonetic.net, running version Unreal3.2.6
+MESSAGE from staticfree (of Foonetic) no. 3: :This server was created Tue Jun 5 2007 at 22:16:13 EDT
+MESSAGE from staticfree (of Foonetic) no. 4: staticfree.foonetic.net Unreal3.2.6 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from staticfree (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from staticfree (of Foonetic) no. 5: WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS :are supported by this server
+MESSAGE from staticfree (of Foonetic) no. 5: INVEX :are supported by this server
+MESSAGE from staticfree (of Foonetic) no. 251: :There are 157 users and 878 invisible on 5 servers
+MESSAGE from staticfree (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from staticfree (of Foonetic) no. 254: 376 :channels formed
+MESSAGE from staticfree (of Foonetic) no. 255: :I have 203 clients and 1 servers
+MESSAGE from staticfree (of Foonetic) no. 265: :Current Local Users: 203  Max: 508
+MESSAGE from staticfree (of Foonetic) no. 266: :Current Global Users: 1035  Max: 1268
+MESSAGE from staticfree (of Foonetic) no. 375: :- staticfree.foonetic.net Message of the Day - 
+MESSAGE from staticfree (of Foonetic) no. 372: :- 24/9/2007 15:03
+MESSAGE from staticfree (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from staticfree (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from staticfree (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from staticfree (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from staticfree (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from staticfree (of Foonetic) no. 372: :-                                   
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @staticfree.info
+MESSAGE from staticfree (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from staticfree (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-            (To use IPv6 in balky clients, 
+MESSAGE from staticfree (of Foonetic) no. 372: :-             connect to irc6.foonetic.net)
+MESSAGE from staticfree (of Foonetic) no. 372: :-            
+MESSAGE from staticfree (of Foonetic) no. 372: :-            Server Administrator:   xavier
+MESSAGE from staticfree (of Foonetic) no. 372: :-              
+MESSAGE from staticfree (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from staticfree (of Foonetic) no. 372: :-                        #help
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from staticfree (of Foonetic) no. 372: :- 
+MESSAGE from staticfree (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from staticfree (of Foonetic) no. 372: :-            
+MESSAGE from staticfree (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from staticfree (of Foonetic) no. 372: :-            
+MESSAGE from staticfree (of Foonetic) no. 372: :-            Ports: 6667
+MESSAGE from staticfree (of Foonetic) no. 372: :-            SSL Ports: 6697
+MESSAGE from staticfree (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwx
+Join on Fooneticbua by Brody
+MESSAGE from staticfree (of Foonetic) no. 332: #bua :<@almostsix> I will INFRACT THE FUCK all over you |  | <@almostsix> ...guys <@almostsix> I just realied <@almostsix> You could make a troll calendar, one troll per month *almostsix is a little slow sometimes |  | <@almostsix> tp <&Geekthras> fzailure | <&Geekthras> fzailure | <&Geekthras> male strippers <&
+MESSAGE from staticfree (of Foonetic) no. 333: #bua frozence1etery 1292226480
+MESSAGE from staticfree (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash lurker @almostsix &Geekthras 
+MESSAGE from staticfree (of Foonetic) no. 366: #bua :End of /NAMES list.
+AUTH from naos of Foonetic: *** Looking up your hostname...
+AUTH from naos of Foonetic: *** Found your hostname (cached)
+Pinged on Foonetic: ':A643942B'
+MESSAGE from naos (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@cumm111-0b02-acm-dhcp47.bu.edu
+MESSAGE from naos (of Foonetic) no. 2: :Your host is naos.foonetic.net, running version Unreal3.2.7
+MESSAGE from naos (of Foonetic) no. 3: :This server was created Fri Jun 20 2008 at 23:46:38 UTC
+MESSAGE from naos (of Foonetic) no. 4: naos.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from naos (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from naos (of Foonetic) no. 5: WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS :are supported by this server
+MESSAGE from naos (of Foonetic) no. 5: INVEX :are supported by this server
+MESSAGE from naos (of Foonetic) no. 251: :There are 155 users and 879 invisible on 5 servers
+MESSAGE from naos (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from naos (of Foonetic) no. 254: 376 :channels formed
+MESSAGE from naos (of Foonetic) no. 255: :I have 259 clients and 1 servers
+MESSAGE from naos (of Foonetic) no. 265: :Current Local Users: 259  Max: 415
+MESSAGE from naos (of Foonetic) no. 266: :Current Global Users: 1034  Max: 1268
+MESSAGE from naos (of Foonetic) no. 375: :- naos.foonetic.net Message of the Day - 
+MESSAGE from naos (of Foonetic) no. 372: :- 11/7/2008 5:32
+MESSAGE from naos (of Foonetic) no. 372: :-     __                        _   _      
+MESSAGE from naos (of Foonetic) no. 372: :-    / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from naos (of Foonetic) no. 372: :-   | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from naos (of Foonetic) no. 372: :-   |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from naos (of Foonetic) no. 372: :-   |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from naos (of Foonetic) no. 372: :-                            
+MESSAGE from naos (of Foonetic) no. 372: :- Welcome to Foonetic IRC @ naos.foonetic.net
+MESSAGE from naos (of Foonetic) no. 372: :-                Dallas, Texas
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       Server Administrator:   dyfrgi
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-           http://foonetic.net/
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-       To get help or find IRCops:
+MESSAGE from naos (of Foonetic) no. 372: :-                #help
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-       Random server: irc.foonetic.net
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       To see the rules, type /quote rules
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       Port: 80, 6667, 6668, 6669, 7000
+MESSAGE from naos (of Foonetic) no. 372: :-       SSL Ports: 443, 6697, 7001
+MESSAGE from naos (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +wx
+Join on Fooneticbua by Brody
+MESSAGE from naos (of Foonetic) no. 332: #bua :<@almostsix> I will INFRACT THE FUCK all over you |  | <@almostsix> ...guys <@almostsix> I just realied <@almostsix> You could make a troll calendar, one troll per month *almostsix is a little slow sometimes |  | <@almostsix> tp <&Geekthras> fzailure | <&Geekthras> fzailure | <&Geekthras> male strippers <&
+MESSAGE from naos (of Foonetic) no. 333: #bua frozence1etery 1292226480
+MESSAGE from naos (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash lurker @almostsix &Geekthras 
+MESSAGE from naos (of Foonetic) no. 366: #bua :End of /NAMES list.
+AUTH from daemonic of Foonetic: *** Looking up your hostname...
+AUTH from daemonic of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':1C4C1DB3'
+MESSAGE from daemonic (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@cumm111-0b02-acm-dhcp48.bu.edu
+MESSAGE from daemonic (of Foonetic) no. 2: :Your host is daemonic.foonetic.net, running version Unreal3.2.8.1
+MESSAGE from daemonic (of Foonetic) no. 3: :This server was created Sat Jun 12 2010 at 09:11:47 CDT
+MESSAGE from daemonic (of Foonetic) no. 4: daemonic.foonetic.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from daemonic (of Foonetic) no. 5: UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 251: :There are 128 users and 983 invisible on 5 servers
+MESSAGE from daemonic (of Foonetic) no. 252: 6 :operator(s) online
+MESSAGE from daemonic (of Foonetic) no. 254: 368 :channels formed
+MESSAGE from daemonic (of Foonetic) no. 255: :I have 381 clients and 2 servers
+MESSAGE from daemonic (of Foonetic) no. 265: :Current Local Users: 381  Max: 500
+MESSAGE from daemonic (of Foonetic) no. 266: :Current Global Users: 1111  Max: 1769
+MESSAGE from daemonic (of Foonetic) no. 375: :- daemonic.foonetic.net Message of the Day - 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 24/9/2007 14:12
+MESSAGE from daemonic (of Foonetic) no. 372: :-          _____                      _   _      
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  ___|__   ___  _ __   ___| |_(_) ___ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-          Welcome to Foonetic IRC, Hartland, WI
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Server: daemonic.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-                  Administrator:   havoc
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   http://foonetic.net/
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Random server: irc.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-             To get help or find IRCops: #help
+MESSAGE from daemonic (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-               Ports: 6667, 6668, 6669, 7000
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   SSL Ports: 6697, 7001    
+MESSAGE from daemonic (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwx
+Join on Fooneticbua by Brody
+MESSAGE from daemonic (of Foonetic) no. 332: #bua :<@almostsix> ... I just realized esrever backwards is reverse |  <@almostsix> okay. what I'm going to do HERE is look ta   atatt the lis a  atattf cabal at atkages o at | <&Geekthras> in my defense i was imitating a dog | <@almostsix> oh my god I like *asterisks* | <@almostsix> QUINTUPLETS <%frozencemetery
+MESSAGE from daemonic (of Foonetic) no. 333: #bua Geekthras 1295239476
+MESSAGE from daemonic (of Foonetic) no. 353: = #bua :Brody %frozencemetery &Geekthras Shidash @almostsix 
+MESSAGE from daemonic (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from frozencemetery: hi!
+Chanmsg on Fooneticbua from almostsix: hi!
+Pinged on Foonetic: ':daemonic.foonetic.net'
+Pinged on Foonetic: ':daemonic.foonetic.net'
+Pinged on Foonetic: ':daemonic.foonetic.net'
+Join on Fooneticbua by gelacacine
+Chanmsg on Fooneticbua from Geekthras: hi.
+Chanmsg on Fooneticbua from gelacacine: hi?
+Chanmsg on Fooneticbua from frozencemetery: hi gelacacine
+Chanmsg on Fooneticbua from gelacacine: i'm in school
+Chanmsg on Fooneticbua from gelacacine: =)
+Chanmsg on Fooneticbua from frozencemetery: :)
+Chanmsg on Fooneticbua from frozencemetery: where?
+Chanmsg on Fooneticbua from Geekthras: you can't tell but I used caps lock on that period
+Chanmsg on Fooneticbua from gelacacine: junior senior room
+Chanmsg on Fooneticbua from frozencemetery: okay
+Chanmsg on Fooneticbua from gelacacine: where are you?
+Chanmsg on Fooneticbua from frozencemetery: ACTION is with Geekthras nd Brody at builds
+Chanmsg on Fooneticbua from Geekthras: guess.
+Chanmsg on Fooneticbua from gelacacine: k
+Chanmsg on Fooneticbua from frozencemetery: :D
+Chanmsg on Fooneticbua from gelacacine: ACTION will be there when she has worked out her schedule with duck
+Chanmsg on Fooneticbua from frozencemetery: :/
+Chanmsg on Fooneticbua from frozencemetery: good luck!
+Chanmsg on Fooneticbua from gelacacine: ACTION hugs you
+Chanmsg on Fooneticbua from frozencemetery: hi
+Chanmsg on Fooneticbua from gelacacine: oh, and i finished the Asimov thing, so i'm going to give it back to you
+Chanmsg on Fooneticbua from frozencemetery: okay
+Chanmsg on Fooneticbua from frozencemetery: also you left me a voicemail message that i couldn't decipher
+Chanmsg on Fooneticbua from gelacacine: uh
+Chanmsg on Fooneticbua from gelacacine: i think i was complaining that you didn't pick up
+Chanmsg on Fooneticbua from frozencemetery: okay
+Chanmsg on Fooneticbua from gelacacine: i was sort of asleep, so i don't know what i said
+Chanmsg on Fooneticbua from frozencemetery: i don't know either
+Pinged on Foonetic: ':daemonic.foonetic.net'
+Chanmsg on Fooneticbua from gelacacine: oh
+Chanmsg on Fooneticbua from gelacacine: k
+Chanmsg on Fooneticbua from gelacacine: sorry
+Chanmsg on Fooneticbua from frozencemetery: not your fault, i think.
+Pinged on Foonetic: ':daemonic.foonetic.net'
+Chanmsg on Fooneticbua from gelacacine: how do you change compliance status?
+Chanmsg on Fooneticbua from gelacacine: student link
+Chanmsg on Fooneticbua from frozencemetery: i don't know?
+Chanmsg on Fooneticbua from frozencemetery: Geekthras?
+Chanmsg on Fooneticbua from frozencemetery: :|
+Chanmsg on Fooneticbua from gelacacine: ACTION hugs you
+Chanmsg on Fooneticbua from gelacacine: ACTION goes finds a duck
+Chanmsg on Fooneticbua from gelacacine: bye
+Chanmsg on Fooneticbua from gelacacine: sorry
+Chanmsg on Fooneticbua from Geekthras: bye
+Chanmsg on Fooneticbua from frozencemetery: bye
+Chanmsg on Fooneticbua from Geekthras: B  :|
+Chanmsg on Fooneticbua from Geekthras:  B :|
+Chanmsg on Fooneticbua from Geekthras:   B:|
+Chanmsg on Fooneticbua from Geekthras:    B|
+Chanmsg on Fooneticbua from Geekthras: DEAL WWITH IT.
+Chanmsg on Fooneticbua from frozencemetery: YYYYYYYYEEEEEEEEAAAAAAAAAHHHHHHHH
+Chanmsg on Fooneticbua from Geekthras: /nick caligulasAquarium
+Chanmsg on Fooneticbua from frozencemetery: i love being stong I LOVE BEING STONG I LOVE BEING STONG!
+Pinged on Foonetic: ':daemonic.foonetic.net'
+Pinged on Foonetic: ':daemonic.foonetic.net'
+AUTH from colobus of Foonetic: *** Looking up your hostname...
+AUTH from colobus of Foonetic: *** Checking ident...
+AUTH from colobus of Foonetic: *** No ident response; username prefixed with ~
+AUTH from colobus of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':A6D78AE4'
+MESSAGE from colobus (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!~broderick@cumm111-0b02-acm-dhcp48.bu.edu
+MESSAGE from colobus (of Foonetic) no. 2: :Your host is colobus.foonetic.net, running version Unreal3.2.7
+MESSAGE from colobus (of Foonetic) no. 3: :This server was created Thu Jan 31 2008 at 19:16:46 EST
+MESSAGE from colobus (of Foonetic) no. 4: colobus.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from colobus (of Foonetic) no. 5: NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 WALLCHOPS :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 251: :There are 137 users and 990 invisible on 5 servers
+MESSAGE from colobus (of Foonetic) no. 252: 6 :operator(s) online
+MESSAGE from colobus (of Foonetic) no. 254: 366 :channels formed
+MESSAGE from colobus (of Foonetic) no. 255: :I have 508 clients and 3 servers
+MESSAGE from colobus (of Foonetic) no. 265: :Current Local Users: 508  Max: 712
+MESSAGE from colobus (of Foonetic) no. 266: :Current Global Users: 1127  Max: 1769
+MESSAGE from colobus (of Foonetic) no. 375: :- colobus.foonetic.net Message of the Day - 
+MESSAGE from colobus (of Foonetic) no. 372: :- 31/1/2008 19:22
+MESSAGE from colobus (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from colobus (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from colobus (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from colobus (of Foonetic) no. 372: :-                                   
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @isomerica.net
+MESSAGE from colobus (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from colobus (of Foonetic) no. 372: :-          
+MESSAGE from colobus (of Foonetic) no. 372: :-                      * WARNING *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Blitzed Open Proxy Monitor Active *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Email help@foonetic.net for help  *
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from colobus (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from colobus (of Foonetic) no. 372: :-         (To force IPv6, use irc6.foonetic.net)
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Administrator:   spinfire
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Critter:         aelscha
+MESSAGE from colobus (of Foonetic) no. 372: :-              
+MESSAGE from colobus (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from colobus (of Foonetic) no. 372: :-                        #help
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Ports: 6667, 6668, 6669, 7000
+MESSAGE from colobus (of Foonetic) no. 372: :-            SSL Ports: 6697, 7001    
+MESSAGE from colobus (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwsx
+AUTH from daemonic of Foonetic: *** Looking up your hostname...
+AUTH from daemonic of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':6237A579'
+MESSAGE from daemonic (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@cumm111-0b02-acm-dhcp48.bu.edu
+MESSAGE from daemonic (of Foonetic) no. 2: :Your host is daemonic.foonetic.net, running version Unreal3.2.8.1
+MESSAGE from daemonic (of Foonetic) no. 3: :This server was created Sat Jun 12 2010 at 09:11:47 CDT
+MESSAGE from daemonic (of Foonetic) no. 4: daemonic.foonetic.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from daemonic (of Foonetic) no. 5: UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 251: :There are 204 users and 963 invisible on 5 servers
+MESSAGE from daemonic (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from daemonic (of Foonetic) no. 254: 381 :channels formed
+MESSAGE from daemonic (of Foonetic) no. 255: :I have 241 clients and 1 servers
+MESSAGE from daemonic (of Foonetic) no. 265: :Current Local Users: 241  Max: 500
+MESSAGE from daemonic (of Foonetic) no. 266: :Current Global Users: 1167  Max: 1769
+MESSAGE from daemonic (of Foonetic) no. 375: :- daemonic.foonetic.net Message of the Day - 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 24/9/2007 14:12
+MESSAGE from daemonic (of Foonetic) no. 372: :-          _____                      _   _      
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  ___|__   ___  _ __   ___| |_(_) ___ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-          Welcome to Foonetic IRC, Hartland, WI
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Server: daemonic.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-                  Administrator:   havoc
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   http://foonetic.net/
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Random server: irc.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-             To get help or find IRCops: #help
+MESSAGE from daemonic (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-               Ports: 6667, 6668, 6669, 7000
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   SSL Ports: 6697, 7001    
+MESSAGE from daemonic (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwx
+Join on Fooneticbua by Brody
+MESSAGE from daemonic (of Foonetic) no. 332: #bua :<@almostsix> ... I just realized esrever backwards is reverse |  <@almostsix> okay. what I'm going to do HERE is look ta   atatt the lis a  atattf cabal at atkages o at | <&Geekthras> in my defense i was imitating a dog | <@almostsix> oh my god I like *asterisks* | <@almostsix> QUINTUPLETS <%frozencemetery
+MESSAGE from daemonic (of Foonetic) no. 333: #bua Geekthras 1295239476
+MESSAGE from daemonic (of Foonetic) no. 353: = #bua :Brody %frozencemetery @almostsix Shidash &Geekthras 
+MESSAGE from daemonic (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: !fm set geekthras
+MESSAGE from daemonic (of Foonetic) no. 421: load :Unknown command
+Chanmsg on Fooneticbua from frozencemetery: !fm Geekthras
+Chanmsg on Fooneticbua from Geekthras: !fm set geeekthras
+Chanmsg on Fooneticbua from almostsix: ...hi?
+Chanmsg on Fooneticbua from Geekthras: hi
+Chanmsg on Fooneticbua from frozencemetery: hey
+Pinged on Foonetic: ':daemonic.foonetic.net'
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 290: :        ***** UnrealIRCd Help System *****
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 292: : Server Commands Help.
+MESSAGE from daemonic (of Foonetic) no. 292: : Specify your Question after the /HELPOP command.
+MESSAGE from daemonic (of Foonetic) no. 292: : You will find all of the server commands and options
+MESSAGE from daemonic (of Foonetic) no. 292: : available for use.
+MESSAGE from daemonic (of Foonetic) no. 292: : If you need extra assistance please visit the server's
+MESSAGE from daemonic (of Foonetic) no. 292: : help channel or ask an available IRCop.
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP USERCMDS - To get the list of User Commands
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP OPERCMDS - To get the list of Oper Commands
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP SVSCMDS  - Commands sent via U:Lined Server (Services)
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP UMODES   - To get the list of User Modes
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP SNOMASKS - To get a list of Snomasks
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP CHMODES  - To get the list of Channel Modes
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP OFLAGS   - To see the list of O:line Flags
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 292: : ==-------------------------oOo--------------------------==
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 290: :        ***** UnrealIRCd Help System *****
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 292: : Server Commands Help.
+MESSAGE from daemonic (of Foonetic) no. 292: : Specify your Question after the /HELPOP command.
+MESSAGE from daemonic (of Foonetic) no. 292: : You will find all of the server commands and options
+MESSAGE from daemonic (of Foonetic) no. 292: : available for use.
+MESSAGE from daemonic (of Foonetic) no. 292: : If you need extra assistance please visit the server's
+MESSAGE from daemonic (of Foonetic) no. 292: : help channel or ask an available IRCop.
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP USERCMDS - To get the list of User Commands
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP OPERCMDS - To get the list of Oper Commands
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP SVSCMDS  - Commands sent via U:Lined Server (Services)
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP UMODES   - To get the list of User Modes
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP SNOMASKS - To get a list of Snomasks
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP CHMODES  - To get the list of Channel Modes
+MESSAGE from daemonic (of Foonetic) no. 292: : /HELPOP OFLAGS   - To see the list of O:line Flags
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+MESSAGE from daemonic (of Foonetic) no. 292: : ==-------------------------oOo--------------------------==
+MESSAGE from daemonic (of Foonetic) no. 292: : -
+Chanmsg on Fooneticbua from Geekthras: !fm Geekthras
+MESSAGE from daemonic (of Foonetic) no. 401: bua :No such nick/channel
+Chanmsg on Fooneticbua from Geekthras: !fm set geekthras
+MESSAGE from daemonic (of Foonetic) no. 401: bua :No such nick/channel
+AUTH from colobus of Foonetic: *** Looking up your hostname...
+AUTH from colobus of Foonetic: *** Checking ident...
+AUTH from colobus of Foonetic: *** No ident response; username prefixed with ~
+AUTH from colobus of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':E1914E78'
+MESSAGE from colobus (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!~broderick@cumm111-0b02-acm-dhcp48.bu.edu
+MESSAGE from colobus (of Foonetic) no. 2: :Your host is colobus.foonetic.net, running version Unreal3.2.7
+MESSAGE from colobus (of Foonetic) no. 3: :This server was created Thu Jan 31 2008 at 19:16:46 EST
+MESSAGE from colobus (of Foonetic) no. 4: colobus.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from colobus (of Foonetic) no. 5: NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 WALLCHOPS :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 251: :There are 204 users and 958 invisible on 5 servers
+MESSAGE from colobus (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from colobus (of Foonetic) no. 253: 1 :unknown connection(s)
+MESSAGE from colobus (of Foonetic) no. 254: 382 :channels formed
+MESSAGE from colobus (of Foonetic) no. 255: :I have 569 clients and 4 servers
+MESSAGE from colobus (of Foonetic) no. 265: :Current Local Users: 569  Max: 712
+MESSAGE from colobus (of Foonetic) no. 266: :Current Global Users: 1162  Max: 1769
+MESSAGE from colobus (of Foonetic) no. 375: :- colobus.foonetic.net Message of the Day - 
+MESSAGE from colobus (of Foonetic) no. 372: :- 31/1/2008 19:22
+MESSAGE from colobus (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from colobus (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from colobus (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from colobus (of Foonetic) no. 372: :-                                   
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @isomerica.net
+MESSAGE from colobus (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from colobus (of Foonetic) no. 372: :-          
+MESSAGE from colobus (of Foonetic) no. 372: :-                      * WARNING *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Blitzed Open Proxy Monitor Active *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Email help@foonetic.net for help  *
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from colobus (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from colobus (of Foonetic) no. 372: :-         (To force IPv6, use irc6.foonetic.net)
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Administrator:   spinfire
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Critter:         aelscha
+MESSAGE from colobus (of Foonetic) no. 372: :-              
+MESSAGE from colobus (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from colobus (of Foonetic) no. 372: :-                        #help
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Ports: 6667, 6668, 6669, 7000
+MESSAGE from colobus (of Foonetic) no. 372: :-            SSL Ports: 6697, 7001    
+MESSAGE from colobus (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwsx
+Join on Fooneticbua by Brody
+MESSAGE from colobus (of Foonetic) no. 332: #bua :<@almostsix> ... I just realized esrever backwards is reverse |  <@almostsix> okay. what I'm going to do HERE is look ta   atatt the lis a  atattf cabal at atkages o at | <&Geekthras> in my defense i was imitating a dog | <@almostsix> oh my god I like *asterisks* | <@almostsix> QUINTUPLETS <%frozencemetery
+MESSAGE from colobus (of Foonetic) no. 333: #bua Geekthras 1295239476
+MESSAGE from colobus (of Foonetic) no. 353: = #bua :Brody %frozencemetery &Geekthras Shidash @almostsix 
+MESSAGE from colobus (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: !fm set geekthras
+Chanmsg on Fooneticbua from Geekthras: !fm set geekthras
+MESSAGE from colobus (of Foonetic) no. 401: bua :No such nick/channel
+AUTH from colobus of Foonetic: *** Looking up your hostname...
+AUTH from colobus of Foonetic: *** Checking ident...
+AUTH from colobus of Foonetic: *** Found your hostname
+AUTH from colobus of Foonetic: *** No ident response; username prefixed with ~
+Pinged on Foonetic: ':7CE6F050'
+MESSAGE from colobus (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!~broderick@c-24-63-226-212.hsd1.ma.comcast.net
+MESSAGE from colobus (of Foonetic) no. 2: :Your host is colobus.foonetic.net, running version Unreal3.2.7
+MESSAGE from colobus (of Foonetic) no. 3: :This server was created Thu Jan 31 2008 at 19:16:46 EST
+MESSAGE from colobus (of Foonetic) no. 4: colobus.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from colobus (of Foonetic) no. 5: NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 WALLCHOPS :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 251: :There are 245 users and 981 invisible on 5 servers
+MESSAGE from colobus (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from colobus (of Foonetic) no. 254: 410 :channels formed
+MESSAGE from colobus (of Foonetic) no. 255: :I have 458 clients and 4 servers
+MESSAGE from colobus (of Foonetic) no. 265: :Current Local Users: 458  Max: 712
+MESSAGE from colobus (of Foonetic) no. 266: :Current Global Users: 1226  Max: 1769
+MESSAGE from colobus (of Foonetic) no. 375: :- colobus.foonetic.net Message of the Day - 
+MESSAGE from colobus (of Foonetic) no. 372: :- 31/1/2008 19:22
+MESSAGE from colobus (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from colobus (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from colobus (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from colobus (of Foonetic) no. 372: :-                                   
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @isomerica.net
+MESSAGE from colobus (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from colobus (of Foonetic) no. 372: :-          
+MESSAGE from colobus (of Foonetic) no. 372: :-                      * WARNING *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Blitzed Open Proxy Monitor Active *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Email help@foonetic.net for help  *
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from colobus (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from colobus (of Foonetic) no. 372: :-         (To force IPv6, use irc6.foonetic.net)
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Administrator:   spinfire
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Critter:         aelscha
+MESSAGE from colobus (of Foonetic) no. 372: :-              
+MESSAGE from colobus (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from colobus (of Foonetic) no. 372: :-                        #help
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Ports: 6667, 6668, 6669, 7000
+MESSAGE from colobus (of Foonetic) no. 372: :-            SSL Ports: 6697, 7001    
+MESSAGE from colobus (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwsx
+Join on Fooneticbua by Brody
+MESSAGE from colobus (of Foonetic) no. 332: #bua :<&Geekthras> brb caning my forum title <&Geekthas> teleports to 19th century english boarding school | <@almostsix> ... I just realized esrever backwards is reverse | <@almostsix> okay.  what I'm going to do HERE is look ta  atatt the lis a  atattf cabal at ackages o at | <&Geekthras> in my defense i was i
+MESSAGE from colobus (of Foonetic) no. 333: #bua frozencemetery 1295983763
+MESSAGE from colobus (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash &Geekthras @almostsix 
+MESSAGE from colobus (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from almostsix: Brody: hi!
+Chanmsg on Fooneticbua from frozencemetery: !fm frozencemetery
+Pinged on Foonetic: ':colobus.foonetic.net'
+Pinged on Foonetic: ':colobus.foonetic.net'
+AUTH from daemonic of Foonetic: *** Looking up your hostname...
+AUTH from daemonic of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':5E4AF97E'
+MESSAGE from daemonic (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@c-24-63-226-212.hsd1.ma.comcast.net
+MESSAGE from daemonic (of Foonetic) no. 2: :Your host is daemonic.foonetic.net, running version Unreal3.2.8.1
+MESSAGE from daemonic (of Foonetic) no. 3: :This server was created Sat Jun 12 2010 at 09:11:47 CDT
+MESSAGE from daemonic (of Foonetic) no. 4: daemonic.foonetic.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from daemonic (of Foonetic) no. 5: UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 251: :There are 251 users and 977 invisible on 5 servers
+MESSAGE from daemonic (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from daemonic (of Foonetic) no. 254: 410 :channels formed
+MESSAGE from daemonic (of Foonetic) no. 255: :I have 366 clients and 1 servers
+MESSAGE from daemonic (of Foonetic) no. 265: :Current Local Users: 366  Max: 500
+MESSAGE from daemonic (of Foonetic) no. 266: :Current Global Users: 1228  Max: 1769
+MESSAGE from daemonic (of Foonetic) no. 375: :- daemonic.foonetic.net Message of the Day - 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 24/9/2007 14:12
+MESSAGE from daemonic (of Foonetic) no. 372: :-          _____                      _   _      
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  ___|__   ___  _ __   ___| |_(_) ___ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-          Welcome to Foonetic IRC, Hartland, WI
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Server: daemonic.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-                  Administrator:   havoc
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   http://foonetic.net/
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Random server: irc.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-             To get help or find IRCops: #help
+MESSAGE from daemonic (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-               Ports: 6667, 6668, 6669, 7000
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   SSL Ports: 6697, 7001    
+MESSAGE from daemonic (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwx
+Join on Fooneticbua by Brody
+MESSAGE from daemonic (of Foonetic) no. 332: #bua :<&Geekthras> brb caning my forum title <&Geekthas> teleports to 19th century english boarding school | <@almostsix> ... I just realized esrever backwards is reverse | <@almostsix> okay.  what I'm going to do HERE is look ta  atatt the lis a  atattf cabal at ackages o at | <&Geekthras> in my defense i was i
+MESSAGE from daemonic (of Foonetic) no. 333: #bua frozencemetery 1295983763
+MESSAGE from daemonic (of Foonetic) no. 353: = #bua :Brody %frozencemetery Shidash &Geekthras @almostsix 
+MESSAGE from daemonic (of Foonetic) no. 366: #bua :End of /NAMES list.
+MESSAGE from daemonic (of Foonetic) no. 421: unload :Unknown command
+MESSAGE from daemonic (of Foonetic) no. 321: Channel :Users  Name
+MESSAGE from daemonic (of Foonetic) no. 322: #CG-ops 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #Wisconsin 1 :[+ntr] Welcome to Wisconsin
+MESSAGE from daemonic (of Foonetic) no. 322: #packetstorm 1 :[+ntr] [Packet Storm]: an epic game of hacker warfare, taking place on real computers. | We need a logo. ideas?
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-cs 26 :[+nrS] Hello network! | http://wiki.xkcd.com/irc/XKCD-CS | Respectful discussion, please | <QuAZ> Raptors are not only for GOTO | http://wiki.xkcd.com/irc/XKCD-CS/Tarpit | http://wiki.xkcd.com/irc/XKCD-CS#Exercises
+MESSAGE from daemonic (of Foonetic) no. 322: #zombienation 3 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: # 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #vfxnationadmin 3 :[+ir] 
+MESSAGE from daemonic (of Foonetic) no. 322: #silence 1 :[+ntr] shhh.
+MESSAGE from daemonic (of Foonetic) no. 322: #caty 1 :[+ntr] I want to be accurate to several significant figures
+MESSAGE from daemonic (of Foonetic) no. 322: #shellqdb 3 :[+nr] irc logs @ http://bit.ly/dbA03J | project @ http://github.com/zli5t/ShellQDB | cia.vc project stats @ http://cia.vc/stats/project/ShellQDB
+MESSAGE from daemonic (of Foonetic) no. 322: #pctyddebate 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #DaBigKittenParty 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #DCUO 4 :[+ntr] Embedded chat is back online at www.dcuosource.com
+MESSAGE from daemonic (of Foonetic) no. 322: #dx-cc 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #rhombus 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #medussa_trial 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #chelonia 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #resolve 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #EIMU 2 :[+ntr] Elite Ikariam Members United (donate or die) 
+MESSAGE from daemonic (of Foonetic) no. 322: #QwitterClient 8 :[+ntr] Come in for all things Qwitter: support, questions, problems, issues, ... All are welcome. Please use your Twitter screen name as your nick whenever possible.
+MESSAGE from daemonic (of Foonetic) no. 322: #help 19 :[+trc] Foonetic IRC Help and Support channel -- http://foonetic.net/ | For common problems, check here first: http://wiki.foonetic.net/ | If you don't get a response immediately, wait a bit - we might be busy. 
+MESSAGE from daemonic (of Foonetic) no. 322: #pctyddrama 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #frag 3 :[+ntr] Military Bunker - Pare's burning the Midnight Oil to pay for a trip to Duo's. | It's bedtime in #frag. Pare, you coming? ^_~
+MESSAGE from daemonic (of Foonetic) no. 322: #cyberthug 3 :[+ntr] Thugs for EVERYONE! | http://tinyurl.com/cyberthug | minecraft.haxit.org | http://random.bandcamp.com/album/black-materia-final-fantasy-vii
+MESSAGE from daemonic (of Foonetic) no. 322: #maic 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #post-apocalyptic 2 :[+ntr] Anything Post-Apocalyptic
+MESSAGE from daemonic (of Foonetic) no. 322: #bots 30 :[+ntrcCT] Opers will not intermingle in channel affairs, please do not ask them to. | Bring out yer bots! Bring out yer bots! | Newcomers Read: http://wiki.xkcd.com/irc/BOTS
+MESSAGE from daemonic (of Foonetic) no. 322: * 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #datatest 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #One-Shots 1 :[+ntr] Next One-Shot: Feb 16th  ---> https://docs.google.com/document/pub?id=1BLyaomxvozNlJFRgoKSm-NPcBYijRnixzEQeIm2qvgM
+MESSAGE from daemonic (of Foonetic) no. 322: #dosv 1 :[+ntr] Desert Operations Sverige - /charset iso-8859-1
+MESSAGE from daemonic (of Foonetic) no. 322: ## 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-compsci 58 :[+ntrcCT] Welcome to #xkcd-compsci | Tech talk, not tech support. Also, kitties! | Ops for everybody — feel free to op people again! | Great introductory resource for beginner programmers: http://tinyurl.com/thinkcspy | Darwin Day's a-coming!
+MESSAGE from daemonic (of Foonetic) no. 322: #faid7 1 :[+ntr] Every sentence must consist of seven words.
+MESSAGE from daemonic (of Foonetic) no. 322: #techwarelabs 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #home 7 :[+ntr] http://sexybatman.com/
+MESSAGE from daemonic (of Foonetic) no. 322: #revolutionists 2 :[+ntr] Welcome to The Revolutionists! --- http://revolutionists.aurora-glacialis.de/index.php --- next meeting: 19 February 21:00 GMT
+MESSAGE from daemonic (of Foonetic) no. 322: #* 1 :[+ntr] .*.
+MESSAGE from daemonic (of Foonetic) no. 322: #Pail 1 :[+ntr] Official channel for Pail, brother/nemesis of Bucket.
+MESSAGE from daemonic (of Foonetic) no. 322: #lime 3 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #kgnv 6 :[+ntr] Me Am Play Gods!
+MESSAGE from daemonic (of Foonetic) no. 322: ##gss-emea 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #meow 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #WGF2 1 :[+ntr] Midnight's getaway place lol
+MESSAGE from daemonic (of Foonetic) no. 322: #mIRC 2 :[+ntr] mIRC help channel. Need help with settings or scripts? Just ask directly and please be patient. Paste (large) scripts at http://paste.prco23.org/mIRC
+MESSAGE from daemonic (of Foonetic) no. 322: #kiwi 5 :[+r] ~~~ #CRAYBOT is the official room for Craybot ~~~
+MESSAGE from daemonic (of Foonetic) no. 322: #applestocarlsagan 2 :[+ntr] A still more glorious dawn awaits, not a sunrise, but a galaxyrise.
+MESSAGE from daemonic (of Foonetic) no. 322: #mafia-rewrite 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-dev 1 :[+ntr] Fulfillment
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-dnd 4 :[+ntrcCT] <Aberro> If you're going to tell me what time you want to play, it'd be nice if you could keep up with your own schedule guys. | Sessions on Saturday at 9pm EST | Get character sheets to Aberro before the session starts. | Docs for Dice at http://www.d20source.com/roleplaying-tools/dicebot
+MESSAGE from daemonic (of Foonetic) no. 322: #mlug 5 :[+ntr] Milwaukee Linux Users Group
+MESSAGE from daemonic (of Foonetic) no. 322: #mostlyharmless 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #photosig 3 :[+nt] WAIT DON'T LEAVE. You'll never get to chat if you leave after 1 minute. Hang around a while.
+MESSAGE from daemonic (of Foonetic) no. 322: #SPV2 1 :[+r] GHOST AND MARILL UP IN THIS BITCH
+MESSAGE from daemonic (of Foonetic) no. 322: #nsfw 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #nuke 6 :[+ntr] Goofy topic of the moment: Nuke: It's what's for dinner
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-rebellion 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #myka 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #m 5 :[+ntr] cmdchar is %, %join starts a game
+MESSAGE from daemonic (of Foonetic) no. 322: #poly 2 :[+ntr] Beep!
+MESSAGE from daemonic (of Foonetic) no. 322: #indecisive 4 :[+nr] http://bit.ly/ghsm1Q | StumbleUpon Pornography - The best way to procrasturbate! | Boobs. | http://www.youtube.com/watch?v=aUyFZ0nL4TY | http://www.youtube.com/watch?v=xwQw6_X9hPk
+MESSAGE from daemonic (of Foonetic) no. 322: #test 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #bunnywarren 3 :[+ntr] Happy New Year!
+MESSAGE from daemonic (of Foonetic) no. 322: #| 2 :[+ntr] Welcome to #|, home of RadioBot.   Say skip to skip current track.  PM RadioBot for more info.
+MESSAGE from daemonic (of Foonetic) no. 322: #shotgun 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd 384 :[+nrcCTf] What? Like this? | Remember kids, <ellipsis>: for every typo you correct, the whole topic flies across the screen, it's annoying | Humans were named for their inventor, B. S. Human, who invented humans in 1724. | Batman. http://du.cx/X | Oh no let's not get meta please | Why, the human inventor, of course.
+MESSAGE from daemonic (of Foonetic) no. 322: #room 2 :[+ntr] Please remember to close the door to the #room when you are engaged in "naughty" business | The room may or may not be private 
+MESSAGE from daemonic (of Foonetic) no. 322: #circa 2 :[+ntrcC] Circa: It's Still Not Lame! * Welcome to the official development channel for Circa, an as-yet-unusable IRC client. | Site: http://code.google.com/p/circa-irc/ | Json.NET is now a build-time dependency; get it at http://json.codeplex.com/
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-mud 2 :[+ntr] I AM INITHELLO!!!!! | I AM EMO!!!!! | :<3 Katrie | Telnet to 85.252.203.34 port 4000 | Mercurial repo at http://bitbucket.org/inithello/xkcdmud/ - contact InitHello for commit access | :<3 Katrie
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-love-mods 8 :[+ntrS] #xkcd-love administrative channel: less drama coming to a theater near you! | #xkcd-love rules: http://tinyurl.com/xkcd-love | #xkcd-love ops policy: http://tinyurl.com/xkcd-love-ops | regulars of #xkcd-love are permitted to remain here for any length of time, but preferably only on an as-needed basis
+MESSAGE from daemonic (of Foonetic) no. 322: #pctydsurvivor 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-pub 16 :[+ntr] *STICKY* stats! http://www.shifuimam.com/xkcd-pub/ | http://5z8.info/worm.exe_zlq | Happy V-Day http://9gag.com/gag/74460/
+MESSAGE from daemonic (of Foonetic) no. 322: #boats 12 :[+ntrCT] We have our own IRC network! Connect to irc.subluminal.net port 6667. You know where to find us (#boats) 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-rpg 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #pugglewump 62 :[+nrc] GO! PACK! GO!
+MESSAGE from daemonic (of Foonetic) no. 322: #tvks 1 :[+ntr] One Soul, One Goal, One Army, Together We Are Soldiers.
+MESSAGE from daemonic (of Foonetic) no. 322: ### 4 :[+nr] Octothorpe Hash Pound Inc. For more info, Contact us at octothorpe_hash_pound@mail.com | Play mafia over at #mafia! better than uno | UNO is being played over at #uno. just ask johnhenry for !uno
+MESSAGE from daemonic (of Foonetic) no. 322: #machinespirit 3 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #blah32 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #mafia 17 :[+ntr] HEARTS AND SHIT | http://mafianode.com/wiki/Bot_Competition | Where the mafia get together to play Catan | 9223372036854775807 - lime's max timer (found by Anna)
+MESSAGE from daemonic (of Foonetic) no. 322: #drbot 1 :[+ntr] meh
+MESSAGE from daemonic (of Foonetic) no. 322: #idlerpg-discuss 10 :[+ntr] < #IdleRPG-Discuss - A place to talk about An Idling Competition Channel | Yeah, you can't talk in there without being penalized, but would there be a game if you could? | Website: http://idlerpg.foonetic.net/ | don't kick pplz, kay? > 
+MESSAGE from daemonic (of Foonetic) no. 322: #zxcv 2 :[+ntr] #zxcv.  Bitches.
+MESSAGE from daemonic (of Foonetic) no. 322: #vintagehotsexy 2 :[+ntr] THEN DO BOTH HE CAME. I need a better phrase to tell you that you suck without saying that you suck, because you do sometimes. Come flavors are better than others. STOP TEASING MY HORROR COCK. FUDDSOI. Shwiweesh. Carparts, Carpets & Cocks. Convoluted beard. Bulging with impatient fluids. JEW BAGEL.
+MESSAGE from daemonic (of Foonetic) no. 322: #<3 2 :[+ntr] <3 Funkytown! | <3Suits | Heart| <Knife3 | </3 | <3 (oYo) | <3 3===D ~~~ | <3 (_Y_) | <3 ra | <3 Sun | <3 You | <3 <3
+MESSAGE from daemonic (of Foonetic) no. 322: #timebomb 2 :[+ntr] Zork meets Bomberman meets Russian Roulette | Syntax: !timebomb <target>
+MESSAGE from daemonic (of Foonetic) no. 322: #gameroom 3 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #foofoofoo 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-signal 119 :[+mnrSCTf] http://wiki.xkcd.com/irc/XKCD-SIGNAL | Talking about bans from #xkcd, discussing xkcd-signal, generating noise, mute-baiting or trolling the topic will result in being pelted with high-speed cricket balls.
+MESSAGE from daemonic (of Foonetic) no. 322: #supercrib 2 :[+ntr] The Super Crib 4000 | Rapidown is online @ http://hendrix.odious.org.uk:6750/ | Robin Neville likes to bum llamas....daily
+MESSAGE from daemonic (of Foonetic) no. 322: #pandabolapowerhour 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #fluxx 4 :[+nt] Report bugs here! https://github.com/magcius/pyGBot | How to play: http://www.youtube.com/watch?v=PcR0nSmoUsw
+MESSAGE from daemonic (of Foonetic) no. 322: #Rosetum 1 :[+ntr] V�lkommen till PaR's mIRC chat, hoppas ni ska trivas h�r!
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-cake 2 :[+ntr] What the fuck that topic was a year and a half old
+MESSAGE from daemonic (of Foonetic) no. 322: #theforest 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-beer 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #suggest 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #DropboxRC 3 :[+mr] Follow new posts at http://forums.dropbox.com in real time. To chat about Dropbox, join #Dropbox
+MESSAGE from daemonic (of Foonetic) no. 322: #picon 5 :[+nr] 2011 GoH: Jo Walton
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-bdsm 14 :[+ntrS] Welcome to #-bdsm, where chains are flowery and the whips are made of rainbows and we tie people up with hemp rope | * peanut sets mode: -oh Amelia Amelia | All links are assumed to be NSFW. 
+MESSAGE from daemonic (of Foonetic) no. 322: #vfxnBot 1 :[+ntrk] 
+MESSAGE from daemonic (of Foonetic) no. 322: #lingubender 3 :[+ntrS] Guess where Joey lives!! http://tinyurl.com/4bfl4op || Tan is reading http://en.wikipedia.org/wiki/Night_Angel_Trilogy
+MESSAGE from daemonic (of Foonetic) no. 322: #party 2 :[+ntr] Strippers | lilmisschaos is extremely sexy.| Two months Dritzy
+MESSAGE from daemonic (of Foonetic) no. 322: #LinodeGeeks 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #fluxx-lobby 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #pctyd 12 :[+nrSCTkf] AMC party friday night. Elena and Paiev will be there. Will you? | http://i.imgur.com/8p81S.gif  "lonely is what #pctyd does best" - Shoff | http://i.imgur.com/skNgTl.jpg | DNE: current channel size record is 30 (6-21-10) 
+MESSAGE from daemonic (of Foonetic) no. 322: #nomic 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #pctyd-drama 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #hypnotoad 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #arcology 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #norge 3 :[+ntrl] if ($norwegian) echo 'Velkommen til #norge!'; else echo 'Welcome to #norge!';
+MESSAGE from daemonic (of Foonetic) no. 322: #ponymagic! 7 :[+nrS] http://a.nf/bf0 make this and I love you 4evr | i rule. -arb. | i want to die. -phif | towers of dooooooom! -kojo | miss u ;___; ricket | girafatch, i choose you! -invariel | javajavajava -yoru | elgub- !dlrow yensid | bother me about my book all the time -adam
+MESSAGE from daemonic (of Foonetic) no. 322: #robotacademy 1 :[+r] Planet H99 Welcome You
+MESSAGE from daemonic (of Foonetic) no. 322: #carnivalofharlots 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #WXKCDradio 2 :[+nr] Auto-DJ is almost win. Reconnect if ogg stream fucks up. | http://radio.inithello.net:3220/ | upload new songs to ftp://radio.inithello.net/incoming | current song announced in #wxkcdradio-announce 
+MESSAGE from daemonic (of Foonetic) no. 322: #df 4 :[+nr] A new chapter of dwarven history begins here. Strike the earth!
+MESSAGE from daemonic (of Foonetic) no. 322: #poker 1 :[+ntr] 7 Card Texas Hold'em Poker || type 'p join' to join 
+MESSAGE from daemonic (of Foonetic) no. 322: #video 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #nn 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #music 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-mime 5 :[+mntr] Actions speak louder than words! | /me commands only, no standard talking | Enjoy expressing yourself in the i'th person (brilliantnut) | #meta-mime for meta discussions | Perl wins for the new bot! | http://wiki.xkcd.com/irc/XKCD-MIME
+MESSAGE from daemonic (of Foonetic) no. 322: #purpleninjas 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #mobiata-hotelpal 4 :[+k] 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-hugs 34 :[+r] MOVIE NIGHT hahaat 5pm PST/8pm EST. Movie: Scott Pilgrim vs the World || http://xkcd.raptorswithhats.com to watch!
+MESSAGE from daemonic (of Foonetic) no. 322: #us 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #LambdaForce 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #pctyd-oldchat 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #umass 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #toast 1 :[+ntr] Rules: http://sites.google.com/site/notebookofhc/toast/rules-1 | Info: http://sites.google.com/site/toestos/home/irc/rules/irc-channel-info (DarqWolff)
+MESSAGE from daemonic (of Foonetic) no. 322: #geohashing 36 :[+ntr] http://wiki.xkcd.com/geohashing/ | http://irc.peeron.com/xkcd/map/ | Sun 0.6023521, 0.8647813 | Mon(E) 0.1535013, 0.9732031
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-love 74 :[+ntrS] Relationship advice, mildly patronizing | Don't be afraid to ask! =D | Rules: http://tinyurl.com/xkcd-love - In short, don't be a dick | http://www.smbc-theater.com/?id=191 | <cuog> be careful where you go sticking your fingers
+MESSAGE from daemonic (of Foonetic) no. 322: #spazz 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #coffee 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #widihome 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #wings 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-porn 1 : lol
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-kittens 1 :[+ntr] Foonetic's kitten fan club | http://i.imgur.com/4koED.jpg <-- REQUIRED VIEWING FOR THIS CHANNEL 
+MESSAGE from daemonic (of Foonetic) no. 322: #bohr-model 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #bucket 39 :[+ntrc] http://xkcd.com/bucket/history.png | When using $item et. al., keep your factoids simple and concise.  Elaborate sentences + elaborate substitutions lead to unfunniness | Bucket can be queried in private message. Don't spam here too much.
+MESSAGE from daemonic (of Foonetic) no. 322: #thebikeshed 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #denbysgirls 1 :[+r] That's been up too long.
+MESSAGE from daemonic (of Foonetic) no. 322: #glacompsci 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #bootes 2 :[+nr] You found more of Bootes! | julian found part of Bootes! \o/ | Most of Bootes is still missing. :(
+MESSAGE from daemonic (of Foonetic) no. 322: #puzzles 9 :[+ntr] Can not play under the rug. This method is, in fact, the crisis of the lunch, do not have a methodology. | Le what? Say .help or !help
+MESSAGE from daemonic (of Foonetic) no. 322: #lobbyserver 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #bestenemies 5 :[+ntr] Yeaaah I don't understand what you're all saying PARTY TIME
+MESSAGE from daemonic (of Foonetic) no. 322: #twirssi 22 :[+ntr] v2.5.1beta - with /twirssi_set_window, /twirssi_list_windows | v2.5.0 - security bugfix | If you're using twitter without OAuth, well, you're not using twitter anymore. | http://github.com/zigdon/twirssi/tree/master | http://twirssi.com | @twirssi for announcements  
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcdfurs 8 :[+ntr] Furred fans of XKCD and friends.
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-pokebattle 1 :[+ntr] Welcome to the Arena! Fight bravely, you schmucks! | Contests every Thursday - Next weeks category is "Cute"
+MESSAGE from daemonic (of Foonetic) no. 322: #jercos 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #ctyalumni 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #brkpchat 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #PailFiles 1 :[+ntr] This is the log channel for Pail.
+MESSAGE from daemonic (of Foonetic) no. 322: #cellphones 4 :[+ntr] Various discussions about various aspects of various cellphones, in depth, and at great lengths
+MESSAGE from daemonic (of Foonetic) no. 322: #haskellfun 1 :[+r] 
+MESSAGE from daemonic (of Foonetic) no. 322: #Fooooo 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #pctyd-debate 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #hypnohaven 3 :[+ntr] HypnoHaven... home of the Polar Bear!!!  :D
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcdwiki 1 :[+nrSC] http://wiki.xkcd.com/irc/Special:Recentchanges
+MESSAGE from daemonic (of Foonetic) no. 322: #electronics 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #spazzlog 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #MILFHunters 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #<3thunder 5 :[+ntr] ((15-nicklength)* space) + <3 thunder | If you <3 thunder and no-one responds, stick around (maybe for several hours) - eventually someone will! | An irssi script to do the work for you: http://www.cobryce.com/heartthunder 
+MESSAGE from daemonic (of Foonetic) no. 322: #gmulug 1 :[+nt] 
+MESSAGE from daemonic (of Foonetic) no. 322: #gardening 1 :[+nrc] subirrigation!
+MESSAGE from daemonic (of Foonetic) no. 322: #peanut 2 :[+r] my oh my, wouldn't that have been... interesting ;)
+MESSAGE from daemonic (of Foonetic) no. 322: #lolchannel 3 :[+ntr] "Well I'm drunk with whiskey, so I'm bad on grammar" | Digital Mustard.
+MESSAGE from daemonic (of Foonetic) no. 322: #shiningvertigo 2 :[+ntrk] ATRA HAS A FINE VAGINA | WHY YES I DO.
+MESSAGE from daemonic (of Foonetic) no. 322: #ITCSOH 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #elitists 10 :[+ntirKl] motion to invite relsqui&zigdon's friend binaryborealis in here | Relsqui is too! | ... older. | PARATAXIA IS OLD NOW | Tell relsqui your opinion about having Tortoise do 8-ball and dice functions. | ZIGDAY | SKIDOOS | IGLOOS | SNOW SHOES
+MESSAGE from daemonic (of Foonetic) no. 322: #otherroom 1 :[+ntr] Dude, GTFO
+MESSAGE from daemonic (of Foonetic) no. 322: #www.androidworld.nl 6 :[+ntr] Welkom in de nieuwe chatbox van www.androidworld.nl
+MESSAGE from daemonic (of Foonetic) no. 322: #evohazard 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #stupidsexybioshock 2 :[+ntr] <TeenNaggy> I don't want you to leave.   |<-- Dalton has left daemonic.foonetic.net (Ping timeout)
+MESSAGE from daemonic (of Foonetic) no. 322: #lonely 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #adom-live 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #scidux 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-linguistics 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #kyle^2 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #meta-discussion 4 :[+ntrSC] It's okay to ask about moderator in -signal now | FAQ: http://wiki.xkcd.com/irc/XKCD-SIGNAL | Source: http://irc.peeron.com/xkcd/ROBOT9000.html | sandbox user database reset nightly | Discuss the workings of #xkcd-signal and its moderator
+MESSAGE from daemonic (of Foonetic) no. 322: #A-Skewed-Paradise 1 :[+mtr] A channel for readers of A Skewed Paradise to chillax and talk about whatever.
+MESSAGE from daemonic (of Foonetic) no. 322: * 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #monkey 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #theden 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #pirate 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #lounge 5 :[+nr] merry christmas! | Love Day
+MESSAGE from daemonic (of Foonetic) no. 322: #webdev 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #cyberhug 5 :[+ntr] Hugs for EVERYONE! | http://tinyurl.com/cyberhug
+MESSAGE from daemonic (of Foonetic) no. 322: #r/Astoria 1 : herp derp derp herp derp herp 
+MESSAGE from daemonic (of Foonetic) no. 322: #nomjyc 2 :[+ntr] a self-modifying programmer's game || http://nomjyc.ath.cx:8080/nomjyc/nomjyc.py
+MESSAGE from daemonic (of Foonetic) no. 322: #bgg 7 :[+nr] We <3 Board Games
+MESSAGE from daemonic (of Foonetic) no. 322: #cah-testing 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #learnIRC 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #novago 2 :[+ntr] [ This is the Northern Virginia Geocaching Organization. ][ Sorry about the over-40 dating ads, web users ]
+MESSAGE from daemonic (of Foonetic) no. 322: #DII 2 :[+ntr] All things Diablo II || New people welcome! || Adria: http://diablo.incgamers.com/forums/showthread.php?t=735468 || mMap: http://www.assembla.com/spaces/mmap/documents || KCH: http://www.portaldeamon.com/kch_latest_release.zip || Clan Ant and Clan Auth for Chaos/Baal runs
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-q 15 :[+nrS] 22 bottles of queer on the wall, 22 bottles of queer… | Pronouns and usernames: http://bit.ly/hPUmKc | http://www.zeemaps.com/map?group=200684 -q location map! Get all up ons! | PM Raichu if you want to battle Pokémon! :D | *hug* *hug* *glomp*
+MESSAGE from daemonic (of Foonetic) no. 322: #DND 3 :[+ntr] A channel for running and discussing DND games.  All are welcome. - Home of the Space dolphin Liches. - Hey, people idle, we'll get back to you if you're patient! - There's no Mafia here - Needs more brainjars. - EST is the one true timezone :O
+MESSAGE from daemonic (of Foonetic) no. 322: #bua 5 :[+nrCk] <&Geekthras> brb caning my forum title <&Geekthas> teleports to 19th century english boarding school | <@almostsix> ... I just realized esrever backwards is reverse | <@almostsix> okay.  what I'm going to do HERE is look ta  atatt the lis a  atattf cabal at ackages o at | <&Geekthras> in my defense i was i
+MESSAGE from daemonic (of Foonetic) no. 322: #bss 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #jcs 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #diehard 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #cty 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcdmafiadead 1 :[+r] Where the dead go. | ¦| <-Smiley of indifference| Test possible changes to thingy here!
+MESSAGE from daemonic (of Foonetic) no. 322: #Dux 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #ftu 6 :[+ntr] http://www.youtube.com/watch?v=BxHNztg0X3s Everybodies feelin fine because it's PARTY TIME
+MESSAGE from daemonic (of Foonetic) no. 322: #darknet 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #SDC 1 :[+ntr] A temporary chat for the SDC forum people.
+MESSAGE from daemonic (of Foonetic) no. 322: #krylus 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #minecraftscd 3 :[+ntr] escrever .players para ver quem esta ingame
+MESSAGE from daemonic (of Foonetic) no. 322: #WarBot 1 :[+ntr] Welcome to the WarBot beta room. WarBot will be down for quite some time due to WarHawks switching from mIRC coding to Perl. Expect great and new things to come from WarBot, the goal: An UB2R replacement and a more advanced bot.
+MESSAGE from daemonic (of Foonetic) no. 322: #lichgame 5 :[+ntr] Details: http://tinyurl.com/lichgame (Last Update: 4/21)  || Next game: Tues || Map: http://tinyurl.com/yg8kbfw (3.65 KB) || http://www.llbbl.com/data/RPG-motivational/images/level20.jpg  || XP: http://goo.gl/ne1tc || Lichgame is updating Maptools to 1.3.b84
+MESSAGE from daemonic (of Foonetic) no. 322: #silver 1 :[+ntr] drugs, sex and sheet film
+MESSAGE from daemonic (of Foonetic) no. 322: #sng 3 :[+r] http://farm2.static.flickr.com/1010/872858771_bd9933e98d_b.jpg | http://droolr.com/product_images/original/000/000/419/halo-xbox-360-elite-console-1_GBlFG_65.jpg | sticking it to the man | dizzle is confused 
+MESSAGE from daemonic (of Foonetic) no. 322: #RPG 21 :[+ntrSTl] *~ Welcome to #RPG - Home of the low rollas || Games: diehard ; Icecore ; #lichgame ; #One-Shots ; Nongame || http://tinyurl.com/RPGCalendar || Dieharders: http://pastebin.com/JBfQuYVD ~*
+MESSAGE from daemonic (of Foonetic) no. 322: #WGF 2 :[+ntr] Welcome. USx round 9 starts on 8/30/10 at 6 am server time
+MESSAGE from daemonic (of Foonetic) no. 322: #srd 1 :[+ntr] IRC Roleplay lounge | Come in, hang out, reminisce about your best critical hits and misses | Roll To Dodge games run by Turgid on a highly irregular basis, so drop by
+MESSAGE from daemonic (of Foonetic) no. 322: #youradminchannel 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #livingthedream 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #uno 4 :[+ntr] ## Foonetic's UNO Channel - Come Play UNO ## | Use !uno to play, jo to join. | Use !unocmds for more information | See also http://pastebin.com/f15df2160 | Monthly Scores Have Been Reset - Try To Get On The Record Books! | If You Can See This Your Client Can Play 1,8W1,3D0,4 0,124 |
+MESSAGE from daemonic (of Foonetic) no. 322: #usf 1 :[+ntr] 2,2 12,12 10,10 3,3 9,9 8,8 7,7 4,4 5,5 6,6 13,13  OFFICIAL USF CHANNEL 13,13 6,6 5,5 4,4 7,7 8,8 9,9 3,3 10,10 12,12 2,2.
+MESSAGE from daemonic (of Foonetic) no. 322: #moderator-sandbox 1 :[+mntr] see #meta-discussion for questions/suggestions about the moderator | This channel runs off a separate database than #xkcd-signal.  The user table is reset nightly, the logs are synced from #xkcd-signal nightly.  
+MESSAGE from daemonic (of Foonetic) no. 322: #xgaycd 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #swu 3 :[+ntr] Welcome to Stonewall Union's IRC Channel | SwU Forum: http://mg-its.co.uk/SwU/Forum/
+MESSAGE from daemonic (of Foonetic) no. 322: #fargate 3 :[+ntr] You can't talk in here!  This is the chat room!
+MESSAGE from daemonic (of Foonetic) no. 322: #applestoapples 18 :[+ntr] Use !help for command list, !rules for game overview | If you spot a typo, please say "Dritz: typo: <full card here>" | You can !join mid-game! | New game! It's better! irc://irc.subluminal.net/#cardsagainsthumanity
+MESSAGE from daemonic (of Foonetic) no. 322: #vapidflats 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #pygbot 4 :[+ntr] http://sourceforge.net/projects/pygbot | Mafia in #mafia, Apples to Apples in #applestoapples | Try ^seen <username> [channel] | The developers are: chaos95: in - Dritz: digested - RobYurkowski: at least not dead? | SVN just hit revision 101! Too bad we're moving to git. | pants
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-noise 6 :[+mntrT] This channel makes my mysql backup rediculous. | If noone ever tells me when the bot is down, I suppose I have to assume noone cares. | Currently 3,087,749 acceptable statements. | Now with 13 months of #xkcd, #xkcd-signal and #xkcd-cheers. | You get muted if you say something that has never been said befo
+MESSAGE from daemonic (of Foonetic) no. 322: #biology 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #enemyplanet 3 :[+ntr] Enemy Planet Talk Radio - http://www.enemyplanet.geek.nz/ !help for help!
+MESSAGE from daemonic (of Foonetic) no. 322: #Crimson-Gaming 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #wizardry 1 :[+nr] Look at your spells, now back at me....
+MESSAGE from daemonic (of Foonetic) no. 322: #ministryofsillywalks 4 :[+ntr] TV is chewing gum for the eyes.  -- Frank Lloyd Wright
+MESSAGE from daemonic (of Foonetic) no. 322: #rpg-gurps 2 :[+ntr] Official channel for nongame | Preliminary character background info: http://goo.gl/zwPeV  | advantages http://goo.gl/TQzY1 | disads http://goo.gl/RJNwo | skills http://goo.gl/4ym5I 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-music 3 :[+ntr] XX days since someone changed the topic | Now recruiting people for #xkcd-music! | Now playing: silence | #xkcd-music (r) | Lady Gaga banned
+MESSAGE from daemonic (of Foonetic) no. 322: #CommanderGenius 5 : Commander Genius dev channel | web: http://clonekeenplus.sourceforge.net| git: http://clonekeenplus.git.sourceforge.net | bugtrack: https://sourceforge.net/apps/trac/clonekeenplus/
+MESSAGE from daemonic (of Foonetic) no. 322: #jakash3 1 :[+ntr] 9,1===================================[ Jakash3's Official Channel ]===================================
+MESSAGE from daemonic (of Foonetic) no. 322: #tortoise 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #home3.0 3 :[+ntr] Fly away #home
+MESSAGE from daemonic (of Foonetic) no. 322: #trivia 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #nimblebit 3 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #derpnet 5 :[+ntr] https://github.com/BUILDS-/Derpnet | current plan: build working socket code | latest minutes: http://bit.ly/giIyfy | latest push: http://bit.ly/fuExkd
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-sucks 11 :[+ntr] anustalk
+MESSAGE from daemonic (of Foonetic) no. 322: #pctyd-meta 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-loverdose 3 :[+ntir] Yo dawg, we herd you liek meetups, so we... nah, sorry dude, meetup's over. Go home. | <Steef> Beer is good for you.
+MESSAGE from daemonic (of Foonetic) no. 322: #Mixcraft_OP 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #phlegethos 37 :[+ntr] faidio relocated, address is still http://faidio.visuallycreated.com:8001 but source pw is now h4ppIness | MAP: http://zeemaps.com/map?group=204853      
+MESSAGE from daemonic (of Foonetic) no. 322: #demon_gamers 3 :[+nt] De montfort university gaming soc, practisevoodoo is your god!
+MESSAGE from daemonic (of Foonetic) no. 322: #evillair 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-write 3 :[+ntr] http://ifwgpublishing.com/ this thing | mike's story: http://www.bay12forums.com/smf/index.php?topic=55064.0 | mike's story: http://tr.im/z3In | Glench/shoofle project: http://glench.com/mirror/ | Taloruyas' tales: http://tales.taloruyas.com | Stop talking and write.   (Glench)
+MESSAGE from daemonic (of Foonetic) no. 322: #mobile-minions 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #mafia-discuss 5 :[+ntr] Feature requests? Bug reports? https://sourceforge.net/tracker/?group_id=246293 | For information about Mafia, use the command !rules in the #mafia channel. | Please don't discuss the game in progress. Anything else is fine.
+MESSAGE from daemonic (of Foonetic) no. 322: #boombox 1 :[+r] np: http://soundcloud.com/sleepygamer/badger-badger-mushroom || R.I.P Gary Moore
+MESSAGE from daemonic (of Foonetic) no. 322: #imsachat 1 :[+ntr] bucket decided he wanted a day off
+MESSAGE from daemonic (of Foonetic) no. 322: #craybot 2 :[+ntr] ~~~OFFICIAL ROOM FOR CRAYBOT~~ | Current version: 2.2.3 | -OUTDATED- SVN updated: 3/16/10 | Docs: http://tinyurl.com/craybot2doc | SF: http://sourceforge.net/projects/craybot | If you want Craybot for your own channel, talk to Crayboff  
+MESSAGE from daemonic (of Foonetic) no. 322: #idlerpg 36 :[+mntrC] 4,1< #IdleRPG - An Idling Competition Channel :: /msg IdleRPG REGISTER to register with the game bot :: /msg IdleRPG HELP for bot help> :: Website: http://idlerpg.foonetic.net/ :: Chat: #Idlerpg-discuss
+MESSAGE from daemonic (of Foonetic) no. 322: #WoT|CC 3 :[+mr] Wärriörs öf Time Püblic Clän Chät - Wätch WöT|Kire ön ÜSTREÄM! http://www.ustream.tv/channel/kirezar - Soup referring to Liv Tyler: "It's hard to believe something so beautiful came out of Steven Tyler's penis..." :o Also soup is good.  \m/\m/
+MESSAGE from daemonic (of Foonetic) no. 322: #HellServer 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #ftuvampire 1 :[+ntr] "I am, in fact, the best.  Have you heard what happens to the rest?"
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcdmafia 14 :[+nr] The last time a game was played in this channel was . . . 08:40 Feb 13 2011 | <--- lies. There was never a game played on this channel. What's a game?  | Those things I win.
+MESSAGE from daemonic (of Foonetic) no. 322: #flyingferret 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #overworld 1 :[+ntr] Channel for discussion of Matthew Stover's Overworld books and topics relating to http://overworld.tv
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-religion 4 :[+ntf] Where a fair and open discussion of various topics can be done without +m every 2 minutes. | Voice shall be removed if people are trollish. | http://en.wikipedia.org/wiki/List_of_fallacies | Current Topic: <JohnHenry> coffeecoffeecoffeecoffeecoffeecoffeecoffeecoffee *glug glug* <JohnHenry> *DING* (100)
+MESSAGE from daemonic (of Foonetic) no. 322: #rapbattle 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #kittenbbq 20 :[+ntr] Romani Ite Domum
+MESSAGE from daemonic (of Foonetic) no. 322: #fishful 2 :[+ntr] Something fishy
+MESSAGE from daemonic (of Foonetic) no. 322: #bucketlog 13 :[+mntr] Bucket changelog shows up here, both from IRC and from the web.  Read-only channel. 
+MESSAGE from daemonic (of Foonetic) no. 322: #Serendipity-dev 1 :[+ntr] Why is it always 1am here?
+MESSAGE from daemonic (of Foonetic) no. 322: #don'twhoismeyoufuckingasshole 1 :[+ntr] These people who were already in here hate you for whois'ing them. Stay and hate people who whois you!
+MESSAGE from daemonic (of Foonetic) no. 322: #clubhouse 6 :[+r] CANADIANS COME; HEATHKIT GETS RIM JOB
+MESSAGE from daemonic (of Foonetic) no. 322: #/join 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: * 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #WriteWay 3 :[+ntr] 09/09/09 KABOOM | For anyone interested in any form of written work, from comics to novels, poetry and even programming works. | Hey, people idle, they'll see you eventually. | CARAMELLDANSEN |  _.-'`*BOOM*`'-,_
+MESSAGE from daemonic (of Foonetic) no. 322: #nenation 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-zombies 5 :[+ntr] Welcome to the #xkcd-minecraft zombie machinima channel. | Go watch Freeman's Mind | Main page: http://piratepad.net/OG5ScKsudj | Writing resources: http://piratepad.net/YN1GPHnL8i | Current episode: http://piratepad.net/1RKQejHuwn | Discussion forum: http://lietk12.kodingen.com/weedmeadow
+MESSAGE from daemonic (of Foonetic) no. 322: #QwitterSupportTeam 4 :[+ntr] I think a nerd is a person who uses the telephone to talk to other people about telephones. And a computer nerd therefore is somebody who uses a computer in order to use a computer.
+MESSAGE from daemonic (of Foonetic) no. 322: #supersecretcolonthreechannel 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-minecraft-mods 3 :[+ntrk] Cornfield - mc.0au.de | UP | Need to be whitelisted? Highlight a mod or apo WITH YOUR MC NAME | http://0au.de/~apo/minecraft/world.png | Beta is edible, if you can /qunshuck the crops. | Scarecrows full of bridges. | Who's in the silo? .players
+MESSAGE from daemonic (of Foonetic) no. 322: #HellServerOps 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #divergent 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-spacechem 3 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #splicepersons 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #TheVillage 16 :[+ntr] Somewhere, Patrick McGoohan is starring in a new recursive show written by Benoit Mandelbrot
+MESSAGE from daemonic (of Foonetic) no. 322: #colonthree 3 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #narwhals 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: * 30 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #thewarroom 1 :[+ntr] You can't fight in here! This is the War Room! | Make love not war :D
+MESSAGE from daemonic (of Foonetic) no. 322: * 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #iisland 3 :[+ntr] Disguised as a typo since September 1st, 2010.
+MESSAGE from daemonic (of Foonetic) no. 322: #uniscience 1 :[+ntr] The UniScience.info Recruit Channel. Welcome To Universal Science Forum. Say "hello" and wait for a mod to respond.
+MESSAGE from daemonic (of Foonetic) no. 322: #minecraftscdadmins 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #joannac 2 :[+nr] It's joannac's fault Shi's gone! | hrm? | hrm!
+MESSAGE from daemonic (of Foonetic) no. 322: #the-pub 1 :[+ntr] Hexium loves the cock
+MESSAGE from daemonic (of Foonetic) no. 322: #wiirockers 9 :[+ntr] Welcome to #WiiRockers! Ask us about our Herp Dongs! | DICK BALL IS SRS BSNS! | "CALL ME FROSTY THE SNOWMAN AND DO MY ASS" - Sushi | RIP Guitar Hero 2/10/11 | I can now write topics. - Alternity
+MESSAGE from daemonic (of Foonetic) no. 322: #endoflineclub 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #oldgames 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcdsucks 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: * 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #ltechlive 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #♥ 2 :[+ntr] \(♥_♥)/
+MESSAGE from daemonic (of Foonetic) no. 322: #mafianode 5 :[+ntr] http://mafianode.com/ | Beware the four admins of the mafpocalypse | old topic was old | QDB set up at mafianode.com/qdb/
+MESSAGE from daemonic (of Foonetic) no. 322: #padsway 3 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #psychology 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #DropboxUpdates 3 :[+ntr] THIS CHANNEL IS UNMAINTAINED! Plese join #DropboxRC to continue reciveing Dropbox Forum posts in real time.
+MESSAGE from daemonic (of Foonetic) no. 322: #kittyfest 2 :[+ntr] nullness
+MESSAGE from daemonic (of Foonetic) no. 322: #/rin/project 1 :[+ntr] Welcome to official Santokki Soju & CREative Attack TEam! Feel free to chat and ask questions! | Our IRC office hours are: Whenever we are here, literally | Official Site: http://www.santokkisoju.com & http://cre-a-te.net
+MESSAGE from daemonic (of Foonetic) no. 322: * 6 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #rbkchat 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #itsachat 2 :[+ntr] Packers won the Super Bowl! - http://www.youtube.com/watch?v=0iqLhdInGrk
+MESSAGE from daemonic (of Foonetic) no. 322: #revolutionists-staff 1 :[+ntr] ---! STAFF ONLY !---
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-debate 1 :[+ntr] The place for "Hotbutton" debates | No kicks or bans | Trolling? What Trolling?
+MESSAGE from daemonic (of Foonetic) no. 322: #shakespeare 2 :[+ntr] Please don't talk during a play!  PM root or see http://l.armory.com/~cerise/shakespeare for details.
+MESSAGE from daemonic (of Foonetic) no. 322: #loocraft 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #operationdogfight 59 :[+ntr] Operation Dogfight
+MESSAGE from daemonic (of Foonetic) no. 322: #barefootgrok 2 :[+ntr] Take your shoes off and come on in!  There's raw buffalo liver hors d'oeuvres over there on that rock.
+MESSAGE from daemonic (of Foonetic) no. 322: #science 1 :[+ntr] The Science / Math / Puzzle Lovers' IRC Hub. This channel is for all those who love science, and want share and acquire knowledge. A place to share your wisdom and leran. This channel is hosted by http://UniScience.info - USF - Join our site recruit channel #uniscience
+MESSAGE from daemonic (of Foonetic) no. 322: #Nobilis 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #Mixcraft 5 : Mixcraft IRC
+MESSAGE from daemonic (of Foonetic) no. 322: #thischanneldoesnotexist 1 :[+ntr] Unless you believe in illusions...
+MESSAGE from daemonic (of Foonetic) no. 322: #lucidity 2 :[+ntr] ITC we obsess about lucid dreaming (it helps) | Exploring the World of Lucid Dreaming: http://tinyurl.com/etwold | What is your nap-time paradigm? | Memetic Poisoning is NOT cool
+MESSAGE from daemonic (of Foonetic) no. 322: #vfxnation 7 :[+ntr] Welcome to vfxnation!
+MESSAGE from daemonic (of Foonetic) no. 322: #techlab 1 :[+r] A channel for Theatre/Staging tech discussion
+MESSAGE from daemonic (of Foonetic) no. 322: #backyardmilitia 7 :[+ntr] Welcome To backyard Militia clan IRC Channel You can Visit us at Http://www.backyardmilitiaclan.com 
+MESSAGE from daemonic (of Foonetic) no. 322: #FreeCompose 7 :[+ntrcCT] http://www.zive.ca/FreeCompose/
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-gaming 2 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #ravelry-de 4 :[+ntr] Willkommen im deutschsprachigen, aber internationalen Ravelry-Channel!
+MESSAGE from daemonic (of Foonetic) no. 322: #ArtofMine 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #Serendipity 9 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #351651613518 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-coding 6 :[+nr] When writing a specialization, be careful about its location; or to make it compile will be such a trial as to kindle its self-immolation.
+MESSAGE from daemonic (of Foonetic) no. 322: #OceanFlatgrass 1 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #bot-test 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #nextlife 2 :[+ntr] 
+MESSAGE from daemonic (of Foonetic) no. 322: #geocaching 1 :[+ntr] geocaching ftw!!
+MESSAGE from daemonic (of Foonetic) no. 322: #wireplant 2 : Wireplant PCB's now available
+MESSAGE from daemonic (of Foonetic) no. 322: #PATRICKISASLUT 1 :[+ntr] PATRICK FAGOT
+MESSAGE from daemonic (of Foonetic) no. 322: #batrachian 4 :[+ntr] Haragorn would like you here: http://www.rockpapercynic.com/forum/viewtopic.php?f=16&t=853
+MESSAGE from daemonic (of Foonetic) no. 322: #xkcd-german 1 : 
+MESSAGE from daemonic (of Foonetic) no. 322: #whoreshock 7 :[+r] Cloudy:"Y'know what.Y'know what.I will /come/."
+MESSAGE from daemonic (of Foonetic) no. 322: #TheJohnHenry 1 : 
+MESSAGE from daemonic (of Foonetic) no. 323: :End of /LIST
+Chanmsg on Fooneticbua from Geekthras: frozencemetery: lastfm or lastfm2?
+Chanmsg on Fooneticbua from Geekthras: !np set geekthras
+MESSAGE from daemonic (of Foonetic) no. 401: bua :No such nick/channel
+Chanmsg on Fooneticbua from Geekthras: !np
+MESSAGE from daemonic (of Foonetic) no. 401: bua :No such nick/channel
+Chanmsg on Fooneticbua from Geekthras: hmmm
+Chanmsg on Fooneticbua from frozencemetery: 2
+Join on Fooneticbua by gelacacinemeep
+Chanmsg on Fooneticbua from frozencemetery: it's faster
+Chanmsg on Fooneticbua from frozencemetery: they both should work
+Chanmsg on Fooneticbua from frozencemetery: 1 uses the grab the profile page method
+Chanmsg on Fooneticbua from frozencemetery: 2 uses the rss method
+Pinged on Foonetic: ':daemonic.foonetic.net'
+AUTH from daemonic of Foonetic: *** Looking up your hostname...
+AUTH from daemonic of Foonetic: *** Found your hostname (cached)
+Pinged on Foonetic: ':89348F43'
+MESSAGE from daemonic (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@c-24-63-226-212.hsd1.ma.comcast.net
+MESSAGE from daemonic (of Foonetic) no. 2: :Your host is daemonic.foonetic.net, running version Unreal3.2.8.1
+MESSAGE from daemonic (of Foonetic) no. 3: :This server was created Sat Jun 12 2010 at 09:11:47 CDT
+MESSAGE from daemonic (of Foonetic) no. 4: daemonic.foonetic.net Unreal3.2.8.1 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from daemonic (of Foonetic) no. 5: UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 5: EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from daemonic (of Foonetic) no. 251: :There are 251 users and 974 invisible on 5 servers
+MESSAGE from daemonic (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from daemonic (of Foonetic) no. 254: 409 :channels formed
+MESSAGE from daemonic (of Foonetic) no. 255: :I have 363 clients and 1 servers
+MESSAGE from daemonic (of Foonetic) no. 265: :Current Local Users: 363  Max: 500
+MESSAGE from daemonic (of Foonetic) no. 266: :Current Global Users: 1225  Max: 1769
+MESSAGE from daemonic (of Foonetic) no. 375: :- daemonic.foonetic.net Message of the Day - 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 24/9/2007 14:12
+MESSAGE from daemonic (of Foonetic) no. 372: :-          _____                      _   _      
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  ___|__   ___  _ __   ___| |_(_) ___ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from daemonic (of Foonetic) no. 372: :-         |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-          Welcome to Foonetic IRC, Hartland, WI
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Server: daemonic.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-                  Administrator:   havoc
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   http://foonetic.net/
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-              Random server: irc.foonetic.net
+MESSAGE from daemonic (of Foonetic) no. 372: :-             To get help or find IRCops: #help
+MESSAGE from daemonic (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from daemonic (of Foonetic) no. 372: :- 
+MESSAGE from daemonic (of Foonetic) no. 372: :-               Ports: 6667, 6668, 6669, 7000
+MESSAGE from daemonic (of Foonetic) no. 372: :-                   SSL Ports: 6697, 7001    
+MESSAGE from daemonic (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwx
+AUTH from naos of Foonetic: *** Looking up your hostname...
+AUTH from naos of Foonetic: *** Found your hostname
+Pinged on Foonetic: ':DB08660B'
+MESSAGE from naos (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!broderick@c-24-63-226-212.hsd1.ma.comcast.net
+MESSAGE from naos (of Foonetic) no. 2: :Your host is naos.foonetic.net, running version Unreal3.2.7
+MESSAGE from naos (of Foonetic) no. 3: :This server was created Fri Jun 20 2008 at 23:46:38 UTC
+MESSAGE from naos (of Foonetic) no. 4: naos.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from naos (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 :are supported by this server
+MESSAGE from naos (of Foonetic) no. 5: WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS :are supported by this server
+MESSAGE from naos (of Foonetic) no. 5: INVEX :are supported by this server
+MESSAGE from naos (of Foonetic) no. 251: :There are 251 users and 975 invisible on 5 servers
+MESSAGE from naos (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from naos (of Foonetic) no. 254: 409 :channels formed
+MESSAGE from naos (of Foonetic) no. 255: :I have 370 clients and 1 servers
+MESSAGE from naos (of Foonetic) no. 265: :Current Local Users: 370  Max: 500
+MESSAGE from naos (of Foonetic) no. 266: :Current Global Users: 1226  Max: 1769
+MESSAGE from naos (of Foonetic) no. 375: :- naos.foonetic.net Message of the Day - 
+MESSAGE from naos (of Foonetic) no. 372: :- 11/7/2008 5:32
+MESSAGE from naos (of Foonetic) no. 372: :-     __                        _   _      
+MESSAGE from naos (of Foonetic) no. 372: :-    / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from naos (of Foonetic) no. 372: :-   | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from naos (of Foonetic) no. 372: :-   |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from naos (of Foonetic) no. 372: :-   |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from naos (of Foonetic) no. 372: :-                            
+MESSAGE from naos (of Foonetic) no. 372: :- Welcome to Foonetic IRC @ naos.foonetic.net
+MESSAGE from naos (of Foonetic) no. 372: :-                Dallas, Texas
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       Server Administrator:   dyfrgi
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-           http://foonetic.net/
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-       To get help or find IRCops:
+MESSAGE from naos (of Foonetic) no. 372: :-                #help
+MESSAGE from naos (of Foonetic) no. 372: :- 
+MESSAGE from naos (of Foonetic) no. 372: :-       Random server: irc.foonetic.net
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       To see the rules, type /quote rules
+MESSAGE from naos (of Foonetic) no. 372: :-     
+MESSAGE from naos (of Foonetic) no. 372: :-       Port: 80, 6667, 6668, 6669, 7000
+MESSAGE from naos (of Foonetic) no. 372: :-       SSL Ports: 443, 6697, 7001
+MESSAGE from naos (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +wx
+Join on Fooneticbua by Brody
+MESSAGE from naos (of Foonetic) no. 332: #bua :<&Geekthras> brb caning my forum title <&Geekthas> teleports to 19th century english boarding school | <@almostsix> ... I just realized esrever backwards is reverse | <@almostsix> okay.  what I'm going to do HERE is look ta  atatt the lis a  atattf cabal at ackages o at | <&Geekthras> in my defense i was i
+MESSAGE from naos (of Foonetic) no. 333: #bua frozencemetery 1295983763
+MESSAGE from naos (of Foonetic) no. 353: = #bua :Brody gelacacinemeep %frozencemetery Shidash &Geekthras @almostsix 
+MESSAGE from naos (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: !np
+Chanmsg on Fooneticbua from Geekthras: hmmmmmmmm
+Chanmsg on Fooneticbua from Geekthras: !np
+Chanmsg on Fooneticbua from Geekthras: hmmm
+Chanmsg on Fooneticbua from Geekthras: odd
+AUTH from daemonic of Foonetic: *** Looking up your hostname...
+AUTH from daemonic of Foonetic: *** Found your hostname (cached)
+AUTH from colobus of Foonetic: *** Looking up your hostname...
+AUTH from colobus of Foonetic: *** Checking ident...
+AUTH from colobus of Foonetic: *** Found your hostname
+AUTH from colobus of Foonetic: *** No ident response; username prefixed with ~
+Pinged on Foonetic: ':B98A419F'
+MESSAGE from colobus (of Foonetic) no. 1: :Welcome to the Foonetic IRC Network Brody!~broderick@c-24-63-226-212.hsd1.ma.comcast.net
+MESSAGE from colobus (of Foonetic) no. 2: :Your host is colobus.foonetic.net, running version Unreal3.2.7
+MESSAGE from colobus (of Foonetic) no. 3: :This server was created Thu Jan 31 2008 at 19:16:46 EST
+MESSAGE from colobus (of Foonetic) no. 4: colobus.foonetic.net Unreal3.2.7 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+MESSAGE from colobus (of Foonetic) no. 5: NAMESX SAFELIST HCN MAXCHANNELS=40 CHANLIMIT=#:40 MAXLIST=b:600,e:600,I:600 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 WALLCHOPS :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=Foonetic CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=~&@%+ EXCEPTS INVEX :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 5: CMDS=KNOCK,MAP,DCCALLOW,USERIP :are supported by this server
+MESSAGE from colobus (of Foonetic) no. 251: :There are 251 users and 981 invisible on 5 servers
+MESSAGE from colobus (of Foonetic) no. 252: 7 :operator(s) online
+MESSAGE from colobus (of Foonetic) no. 254: 408 :channels formed
+MESSAGE from colobus (of Foonetic) no. 255: :I have 457 clients and 4 servers
+MESSAGE from colobus (of Foonetic) no. 265: :Current Local Users: 457  Max: 712
+MESSAGE from colobus (of Foonetic) no. 266: :Current Global Users: 1232  Max: 1769
+MESSAGE from colobus (of Foonetic) no. 375: :- colobus.foonetic.net Message of the Day - 
+MESSAGE from colobus (of Foonetic) no. 372: :- 31/1/2008 19:22
+MESSAGE from colobus (of Foonetic) no. 372: :-          __                        _   _      
+MESSAGE from colobus (of Foonetic) no. 372: :-         / _| ___   ___  _ __   ___| |_(_) ___ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        | |_ / _ \ / _ \| '_ \ / _ \ __| |/ __|
+MESSAGE from colobus (of Foonetic) no. 372: :-        |  _| (_) | (_) | | | |  __/ |_| | (__ 
+MESSAGE from colobus (of Foonetic) no. 372: :-        |_|  \___/ \___/|_| |_|\___|\__|_|\___|
+MESSAGE from colobus (of Foonetic) no. 372: :-                                   
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-         Welcome to Foonetic IRC @isomerica.net
+MESSAGE from colobus (of Foonetic) no. 372: :-                1 Summer St, Boston, MA
+MESSAGE from colobus (of Foonetic) no. 372: :-          
+MESSAGE from colobus (of Foonetic) no. 372: :-                      * WARNING *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Blitzed Open Proxy Monitor Active *
+MESSAGE from colobus (of Foonetic) no. 372: :-          * Email help@foonetic.net for help  *
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-              Native IPv6 Connectivity by
+MESSAGE from colobus (of Foonetic) no. 372: :-                        OCCAID
+MESSAGE from colobus (of Foonetic) no. 372: :-         (To force IPv6, use irc6.foonetic.net)
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Administrator:   spinfire
+MESSAGE from colobus (of Foonetic) no. 372: :-            Server Critter:         aelscha
+MESSAGE from colobus (of Foonetic) no. 372: :-              
+MESSAGE from colobus (of Foonetic) no. 372: :-              To get help or find IRCops:
+MESSAGE from colobus (of Foonetic) no. 372: :-                        #help
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-                 http://foonetic.net/
+MESSAGE from colobus (of Foonetic) no. 372: :- 
+MESSAGE from colobus (of Foonetic) no. 372: :-             Random server: irc.foonetic.net
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            To see the rules, type /quote rules
+MESSAGE from colobus (of Foonetic) no. 372: :-            
+MESSAGE from colobus (of Foonetic) no. 372: :-            Ports: 6667, 6668, 6669, 7000
+MESSAGE from colobus (of Foonetic) no. 372: :-            SSL Ports: 6697, 7001    
+MESSAGE from colobus (of Foonetic) no. 376: :End of /MOTD command.
+Brody on Foonetic set mode Brody +iwsx
+Join on Fooneticbua by Brody
+MESSAGE from colobus (of Foonetic) no. 332: #bua :<&Geekthras> brb caning my forum title <&Geekthas> teleports to 19th century english boarding school | <@almostsix> ... I just realized esrever backwards is reverse | <@almostsix> okay.  what I'm going to do HERE is look ta  atatt the lis a  atattf cabal at ackages o at | <&Geekthras> in my defense i was i
+MESSAGE from colobus (of Foonetic) no. 333: #bua frozencemetery 1295983763
+MESSAGE from colobus (of Foonetic) no. 353: = #bua :Brody gelacacinemeep %frozencemetery Shidash &Geekthras @almostsix 
+MESSAGE from colobus (of Foonetic) no. 366: #bua :End of /NAMES list.
+Chanmsg on Fooneticbua from Geekthras: bleh

@@ -1,0 +1,9 @@
+Gesture Recognition Program
+Colin Stanfill and Robbie Harwood
+Wednesday, February 2011
+
+This program is designed to recognize the following gestures and present the likelihood of each being what the user is currently doing, as a percentage. Specifically, it looks for the user folding their arms and keeping them there, placing their head in their palm ("facepalming"), doing so with both hands, as well as "headbanging", shaking the head up and down vigorously. It will also note when there seems to be nobody in the picture.
+
+The implementation uses a fairly selective filter to find only skintones and then shows all skintones against a white background, with a bounding box around whatever blobs it detects as the head and arms/hands.
+
+On a more whimsical note, if the user begins to headbang, all skintones instead flash rapidly through highly saturated bright colors, simulating bright neon lights.

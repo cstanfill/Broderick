@@ -1,0 +1,2 @@
+Both logging and lastfm need to be updated to the new protocol of import
+and override.

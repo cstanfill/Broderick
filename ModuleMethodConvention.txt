@@ -1,0 +1,76 @@
+The return convention is to return true if you sent a message and otherwise
+to return False.  DO NOT VIOLATE THIS.
+
+channel messages:
+	def onChannelMessage(connection, nick, channel, message):
+	connection is the irc connection; used for sending things back
+	nick is the name of the user who said it
+	channel is where it was said; should be a nick if it was private
+	message is the contents of the message
+
+channel actions:
+	def onChannelAction(connection, nick, channel, message):
+	connection is the irc connection; used for sending things back
+	nick is the name of the user who said it
+	channel is where it was said; should be a nick if it was private
+	message is the contents of the message
+
+channel mode:
+	def onChannelMode(connection, changer, channel, changed, extra):
+	connection is the irc connection; used for sending things back
+	changer is the nick of the person who changed it
+	channel is the channel where it was changed; will always be a
+	channel (I am pretty sure?)
+	changed is the mode change strong, like +o
+	extra is any other part, like the name of the person opped in +o
+
+channel join:
+	def onJoin(connection, nick, channel):
+	connection is the irc connection; used for sending things back
+	nick is the nick of the one joining
+	channel is the channel where the join occurred (will never be nick)
+
+channel kick:
+	def onKick(connection, nick, channel, kicker, reason):
+	connection is the irc connection; used for sending things back
+	nick is the person who was kicked
+	channel is the channel where the kicking occurred
+	kicker is the one doing the kicking
+	reson is the kickstring
+
+channel part:
+	def onPart(connection, nick, channel, reason):
+	connection is the irc connection; used for sending things back
+	nick is the nick of the one parting
+	channel is where the part occurs
+	reason is the part string
+
+user nick:
+	def onNick(connection, oldnick, channel, newnick):
+	connection is the irc connection; used for sending things back
+	old nick is the old nickname
+	channel is all channels where the user is
+	newnick is the new nickname changed to
+
+channel quit:
+	no method; log these as parts for each chan; otherwise, too
+	difficult to track
+
+bot join:
+	def onBotJoin(connection, channel):
+	connection is the irc connection; used for sending things back
+	channel is the channel that the bot has joined
+
+bot part:
+	def onBotPart(connection, channel):
+	connection is the irc connection; used for sending things back
+	channel is the channel that the bot is ABOUT TO leave
+
+bot quit:
+	this will only occur on an error, so fuck writing a method for
+	that.  Call part if you really care.
+
+bot nickchange:
+	def onBotNickChange(connection, newnick):
+	connection is the irc connection; used for sending things back
+	newnick is the new nickname for the bot
